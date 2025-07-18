@@ -165,11 +165,16 @@ class Crawl4aiWebScraper:
             
             # Parse the XML
             root = ElementTree.fromstring(response.content)
+            print(response.content)
+   
             
             # Extract all URLs from the sitemap
             # The namespace is usually defined in the root element
-            namespace = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
-            urls = [loc.text for loc in root.findall('.//ns:loc', namespace)]
+            #namespace = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+            namespace = {'ns': root.tag.split('}')[0].strip('{')}
+            urls = [loc.text for loc in root.findall('.//ns:loc', namespaces=namespace)]
+            if not urls:
+                print("No URLs found.")
             return urls
         
         except Exception as e:

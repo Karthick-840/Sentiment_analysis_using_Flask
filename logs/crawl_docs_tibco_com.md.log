@@ -1,0 +1,1602 @@
+2025-07-18 18:39:58,685 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:39:58,686 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:39:58,686 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:39:58,711 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:40:07,033 - INFO - 
+Summary:
+2025-07-18 18:40:07,033 - INFO -   - Successfully crawled: 0
+2025-07-18 18:40:07,034 - INFO -   - Failed: 0
+2025-07-18 18:40:07,034 - INFO - 
+Closing crawler...
+2025-07-18 18:40:07,206 - INFO - Script finished.
+2025-07-18 18:40:37,237 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com/': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:40:37,237 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:40:37,237 - INFO - Now processing: https://docs.tibco.com/ to be saved to docs_tibco_com.md
+2025-07-18 18:40:37,261 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:40:37,652 - INFO - 
+Summary:
+2025-07-18 18:40:37,652 - INFO -   - Successfully crawled: 0
+2025-07-18 18:40:37,653 - INFO -   - Failed: 0
+2025-07-18 18:40:37,653 - INFO - 
+Closing crawler...
+2025-07-18 18:40:37,819 - INFO - Script finished.
+2025-07-18 18:41:24,134 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:41:24,135 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:41:24,135 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:41:24,166 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:41:24,563 - INFO - 
+Summary:
+2025-07-18 18:41:24,564 - INFO -   - Successfully crawled: 0
+2025-07-18 18:41:24,565 - INFO -   - Failed: 0
+2025-07-18 18:41:24,565 - INFO - 
+Closing crawler...
+2025-07-18 18:41:24,724 - INFO - Script finished.
+2025-07-18 18:47:32,093 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:47:32,093 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:47:32,094 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:47:32,118 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:47:32,492 - INFO - 
+Summary:
+2025-07-18 18:47:32,493 - INFO -   - Successfully crawled: 0
+2025-07-18 18:47:32,493 - INFO -   - Failed: 0
+2025-07-18 18:47:32,493 - INFO - 
+Closing crawler...
+2025-07-18 18:47:32,661 - INFO - Script finished.
+2025-07-18 18:47:50,998 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:47:50,998 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:47:50,998 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:47:51,025 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:47:51,422 - INFO - 
+Summary:
+2025-07-18 18:47:51,423 - INFO -   - Successfully crawled: 0
+2025-07-18 18:47:51,423 - INFO -   - Failed: 0
+2025-07-18 18:47:51,423 - INFO - 
+Closing crawler...
+2025-07-18 18:47:51,564 - INFO - Script finished.
+2025-07-18 18:48:30,908 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:48:30,909 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:48:30,909 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:48:30,940 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:48:31,323 - INFO - 
+Summary:
+2025-07-18 18:48:31,324 - INFO -   - Successfully crawled: 0
+2025-07-18 18:48:31,325 - INFO -   - Failed: 0
+2025-07-18 18:48:31,325 - INFO - 
+Closing crawler...
+2025-07-18 18:48:31,475 - INFO - Script finished.
+2025-07-18 18:49:46,563 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:49:46,564 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:49:46,564 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:49:46,587 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:49:46,973 - INFO - 
+Summary:
+2025-07-18 18:49:46,974 - INFO -   - Successfully crawled: 0
+2025-07-18 18:49:46,974 - INFO -   - Failed: 0
+2025-07-18 18:49:46,974 - INFO - 
+Closing crawler...
+2025-07-18 18:49:47,135 - INFO - Script finished.
+2025-07-18 18:50:19,819 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:50:19,819 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:50:19,819 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:50:19,843 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:50:20,203 - INFO - 
+Summary:
+2025-07-18 18:50:20,203 - INFO -   - Successfully crawled: 0
+2025-07-18 18:50:20,204 - INFO -   - Failed: 0
+2025-07-18 18:50:20,204 - INFO - 
+Closing crawler...
+2025-07-18 18:50:20,357 - INFO - Script finished.
+2025-07-18 18:55:27,648 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:55:27,649 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:55:27,650 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:55:27,678 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:55:28,053 - INFO - 
+Summary:
+2025-07-18 18:55:28,054 - INFO -   - Successfully crawled: 0
+2025-07-18 18:55:28,054 - INFO -   - Failed: 0
+2025-07-18 18:55:28,054 - INFO - 
+Closing crawler...
+2025-07-18 18:55:28,227 - INFO - Script finished.
+2025-07-18 18:57:01,642 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:57:01,642 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:57:01,643 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:57:01,671 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:57:02,095 - INFO - 
+Summary:
+2025-07-18 18:57:02,095 - INFO -   - Successfully crawled: 0
+2025-07-18 18:57:02,096 - INFO -   - Failed: 0
+2025-07-18 18:57:02,096 - INFO - 
+Closing crawler...
+2025-07-18 18:57:02,266 - INFO - Script finished.
+2025-07-18 18:57:21,790 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:57:21,791 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:57:21,791 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:57:21,822 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:57:22,214 - INFO - 
+Summary:
+2025-07-18 18:57:22,215 - INFO -   - Successfully crawled: 0
+2025-07-18 18:57:22,215 - INFO -   - Failed: 0
+2025-07-18 18:57:22,215 - INFO - 
+Closing crawler...
+2025-07-18 18:57:22,376 - INFO - Script finished.
+2025-07-18 18:57:45,788 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 18:57:45,789 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 18:57:45,789 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 18:57:45,812 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 18:57:46,203 - INFO - 
+Summary:
+2025-07-18 18:57:46,203 - INFO -   - Successfully crawled: 0
+2025-07-18 18:57:46,204 - INFO -   - Failed: 0
+2025-07-18 18:57:46,204 - INFO - 
+Closing crawler...
+2025-07-18 18:57:46,387 - INFO - Script finished.
+2025-07-18 19:00:36,755 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 19:00:36,755 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 19:00:36,756 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 19:00:36,787 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 19:00:37,204 - INFO - 
+Summary:
+2025-07-18 19:00:37,205 - INFO -   - Successfully crawled: 0
+2025-07-18 19:00:37,205 - INFO -   - Failed: 0
+2025-07-18 19:00:37,206 - INFO - 
+Closing crawler...
+2025-07-18 19:00:37,351 - INFO - Script finished.
+2025-07-18 19:01:03,967 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 19:01:03,968 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 19:01:03,968 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 19:01:03,999 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 19:01:04,546 - INFO - 
+Summary:
+2025-07-18 19:01:04,546 - INFO -   - Successfully crawled: 0
+2025-07-18 19:01:04,547 - INFO -   - Failed: 0
+2025-07-18 19:01:04,547 - INFO - 
+Closing crawler...
+2025-07-18 19:01:04,711 - INFO - Script finished.
+2025-07-18 19:02:36,083 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 19:02:36,083 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 19:02:36,084 - INFO - Now processing: https://docs.tibco.com to be saved to docs_tibco_com.md
+2025-07-18 19:02:36,110 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 19:02:38,491 - INFO - Successfully crawled: https://docs.tibco.com/videos
+2025-07-18 19:02:38,491 - INFO - Markdown length: 3290
+2025-07-18 19:02:38,492 - INFO - Successfully crawled: https://docs.tibco.com/a_z_products
+2025-07-18 19:02:38,492 - INFO - Markdown length: 4632
+2025-07-18 19:02:38,492 - INFO - Successfully crawled: https://docs.tibco.com/faq
+2025-07-18 19:02:38,492 - INFO - Markdown length: 7744
+2025-07-18 19:02:39,856 - INFO - Successfully crawled: https://docs.tibco.com/products/search
+2025-07-18 19:02:39,856 - INFO - Markdown length: 1
+2025-07-18 19:02:39,857 - INFO - Successfully crawled: https://docs.tibco.com/products/adapter-code-for-tibco-api-exchange-and-joomla
+2025-07-18 19:02:39,857 - INFO - Markdown length: 4383
+2025-07-18 19:02:39,857 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi
+2025-07-18 19:02:39,858 - INFO - Markdown length: 17647
+2025-07-18 19:02:41,199 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-data-intelligence
+2025-07-18 19:02:41,200 - INFO - Markdown length: 3077
+2025-07-18 19:02:41,200 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-data-quality
+2025-07-18 19:02:41,200 - INFO - Markdown length: 3077
+2025-07-18 19:02:41,201 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-focus
+2025-07-18 19:02:41,201 - INFO - Markdown length: 17677
+2025-07-18 19:02:42,398 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-iway-service-manager
+2025-07-18 19:02:42,399 - INFO - Markdown length: 17752
+2025-07-18 19:02:42,400 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-iway-service-manager-edi-add-on
+2025-07-18 19:02:42,400 - INFO - Markdown length: 3077
+2025-07-18 19:02:42,400 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-mdm-add-on-for-global-data-synchronization
+2025-07-18 19:02:42,401 - INFO - Markdown length: 4561
+2025-07-18 19:02:43,358 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-omni-gen
+2025-07-18 19:02:43,359 - INFO - Markdown length: 17692
+2025-07-18 19:02:43,360 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-omni-gen-mdm
+2025-07-18 19:02:43,360 - INFO - Markdown length: 17712
+2025-07-18 19:02:43,360 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-omni-healthdata
+2025-07-18 19:02:43,361 - INFO - Markdown length: 17727
+2025-07-18 19:02:44,562 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-omni-healthdata-business-release
+2025-07-18 19:02:44,562 - INFO - Markdown length: 4356
+2025-07-18 19:02:44,562 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-omni-insurance
+2025-07-18 19:02:44,563 - INFO - Markdown length: 4145
+2025-07-18 19:02:44,563 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-open-data-hub-for-mainframe-connectors
+2025-07-18 19:02:44,563 - INFO - Markdown length: 4492
+2025-07-18 19:02:45,906 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-web-query-for-ibm-i
+2025-07-18 19:02:45,907 - INFO - Markdown length: 3077
+2025-07-18 19:02:45,907 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-container-edition
+2025-07-18 19:02:45,907 - INFO - Markdown length: 3077
+2025-07-18 19:02:45,907 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-app-studio
+2025-07-18 19:02:45,908 - INFO - Markdown length: 15638
+2025-07-18 19:02:47,160 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-client
+2025-07-18 19:02:47,160 - INFO - Markdown length: 15614
+2025-07-18 19:02:47,161 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-dsml-services
+2025-07-18 19:02:47,161 - INFO - Markdown length: 3077
+2025-07-18 19:02:47,162 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-dsml-services-container-edition
+2025-07-18 19:02:47,162 - INFO - Markdown length: 4619
+2025-07-18 19:02:48,818 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-installer
+2025-07-18 19:02:48,818 - INFO - Markdown length: 15632
+2025-07-18 19:02:48,819 - INFO - Successfully crawled: https://docs.tibco.com/products/ibi-webfocus-reporting-server
+2025-07-18 19:02:48,819 - INFO - Markdown length: 15674
+2025-07-18 19:02:48,820 - INFO - Successfully crawled: https://docs.tibco.com/products/premium-subscription-for-tibco-businessworks-container-edition-and-plug-ins-for-aws-marketplace
+2025-07-18 19:02:48,820 - INFO - Markdown length: 3875
+2025-07-18 19:02:51,914 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-analytics
+2025-07-18 19:02:51,914 - INFO - Markdown length: 2623
+2025-07-18 19:02:51,915 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-application
+2025-07-18 19:02:51,915 - INFO - Markdown length: 3081
+2025-07-18 19:02:53,033 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-application
+2025-07-18 19:02:53,033 - INFO - Markdown length: 3081
+2025-07-18 19:02:53,033 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-data-science-author
+2025-07-18 19:02:53,034 - INFO - Markdown length: 3081
+2025-07-18 19:02:53,034 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-data-science-operations
+2025-07-18 19:02:53,034 - INFO - Markdown length: 4141
+2025-07-18 19:02:54,073 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-data-science-workbench
+2025-07-18 19:02:54,074 - INFO - Markdown length: 3081
+2025-07-18 19:02:54,074 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-data-science-for-life-science-author
+2025-07-18 19:02:54,075 - INFO - Markdown length: 4118
+2025-07-18 19:02:54,075 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-data-science-for-life-science-operations
+2025-07-18 19:02:54,076 - INFO - Markdown length: 4154
+2025-07-18 19:02:55,206 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-data-streams
+2025-07-18 19:02:55,206 - INFO - Markdown length: 3081
+2025-07-18 19:02:55,207 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-desktop
+2025-07-18 19:02:55,207 - INFO - Markdown length: 3081
+2025-07-18 19:02:55,207 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-enterprise-runtime-for-r
+2025-07-18 19:02:55,208 - INFO - Markdown length: 4868
+2025-07-18 19:02:57,123 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-enterprise-runtime-for-r-server-edition
+2025-07-18 19:02:57,123 - INFO - Markdown length: 4915
+2025-07-18 19:02:57,124 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-for-android
+2025-07-18 19:02:57,124 - INFO - Markdown length: 4018
+2025-07-18 19:02:57,124 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-for-apple-ios
+2025-07-18 19:02:57,124 - INFO - Markdown length: 3928
+2025-07-18 19:02:58,637 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-liveview-web-enterprise-edition
+2025-07-18 19:02:58,638 - INFO - Markdown length: 3081
+2025-07-18 19:02:58,638 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-on-kubernetes
+2025-07-18 19:02:58,638 - INFO - Markdown length: 3081
+2025-07-18 19:02:58,638 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-platform
+2025-07-18 19:02:58,639 - INFO - Markdown length: 4208
+2025-07-18 19:03:00,109 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-server
+2025-07-18 19:03:00,110 - INFO - Markdown length: 3081
+2025-07-18 19:03:00,110 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-service-for-python
+2025-07-18 19:03:00,110 - INFO - Markdown length: 4824
+2025-07-18 19:03:00,111 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-service-for-r
+2025-07-18 19:03:00,111 - INFO - Markdown length: 3081
+2025-07-18 19:03:01,451 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-service-for-statistica
+2025-07-18 19:03:01,452 - INFO - Markdown length: 4535
+2025-07-18 19:03:01,452 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-statistica
+2025-07-18 19:03:01,452 - INFO - Markdown length: 8656
+2025-07-18 19:03:01,453 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-statistica-all-servers
+2025-07-18 19:03:01,453 - INFO - Markdown length: 3081
+2025-07-18 19:03:02,750 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-statistica-estore-edition
+2025-07-18 19:03:02,750 - INFO - Markdown length: 3768
+2025-07-18 19:03:02,750 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-statistica-for-spotfire-analyst
+2025-07-18 19:03:02,751 - INFO - Markdown length: 4375
+2025-07-18 19:03:02,751 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-statistics-services
+2025-07-18 19:03:02,751 - INFO - Markdown length: 3081
+2025-07-18 19:03:04,243 - INFO - Successfully crawled: https://docs.tibco.com/products/spotfire-statistics-services-12-0-5
+2025-07-18 19:03:04,243 - INFO - Markdown length: 1752
+2025-07-18 19:03:04,244 - INFO - Successfully crawled: https://docs.tibco.com/products/tibbr-for-ios
+2025-07-18 19:03:04,244 - INFO - Markdown length: 3081
+2025-07-18 19:03:04,244 - INFO - Successfully crawled: https://docs.tibco.com/products/tibbr-for-microsoft-outlook
+2025-07-18 19:03:04,245 - INFO - Markdown length: 3081
+2025-07-18 19:03:05,555 - INFO - Successfully crawled: https://docs.tibco.com/products/tibbr-for-salesforce-com-app
+2025-07-18 19:03:05,556 - INFO - Markdown length: 3670
+2025-07-18 19:03:07,020 - INFO - Successfully crawled: https://docs.tibco.com/products/tibbr-pages
+2025-07-18 19:03:07,020 - INFO - Markdown length: 3599
+2025-07-18 19:03:07,021 - INFO - Successfully crawled: https://docs.tibco.com/products/tibbr-tasks
+2025-07-18 19:03:07,021 - INFO - Markdown length: 3539
+2025-07-18 19:03:07,021 - INFO - Successfully crawled: https://docs.tibco.com/products/tibbr,-tibbr-service,-tibbr-community,-and-tibbrcommunity-service
+2025-07-18 19:03:07,021 - INFO - Markdown length: 3081
+2025-07-18 19:03:08,645 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activation-service
+2025-07-18 19:03:08,646 - INFO - Markdown length: 4368
+2025-07-18 19:03:08,646 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-amdocs-crm
+2025-07-18 19:03:08,646 - INFO - Markdown length: 3081
+2025-07-18 19:03:08,647 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-database-tibco-business-studio
+2025-07-18 19:03:08,647 - INFO - Markdown length: 4601
+2025-07-18 19:03:10,390 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-files-for-unix-win-tibco-business-studio
+2025-07-18 19:03:10,390 - INFO - Markdown length: 3081
+2025-07-18 19:03:10,390 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-ibm-i
+2025-07-18 19:03:10,391 - INFO - Markdown length: 3081
+2025-07-18 19:03:10,391 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-jd-edwards-enterpriseone
+2025-07-18 19:03:10,391 - INFO - Markdown length: 3081
+2025-07-18 19:03:12,104 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-kenan-bp
+2025-07-18 19:03:12,104 - INFO - Markdown length: 3081
+2025-07-18 19:03:12,105 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-sap-tibco-business-studio
+2025-07-18 19:03:12,105 - INFO - Markdown length: 3081
+2025-07-18 19:03:12,105 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-for-websphere-mq
+2025-07-18 19:03:12,106 - INFO - Markdown length: 1812
+2025-07-18 19:03:13,215 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-framework
+2025-07-18 19:03:13,216 - INFO - Markdown length: 3081
+2025-07-18 19:03:13,216 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-files
+2025-07-18 19:03:13,216 - INFO - Markdown length: 3081
+2025-07-18 19:03:13,217 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-ibm-i
+2025-07-18 19:03:13,217 - INFO - Markdown length: 3081
+2025-07-18 19:03:14,560 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-lotus-notes
+2025-07-18 19:03:14,560 - INFO - Markdown length: 3081
+2025-07-18 19:03:14,561 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-peoplesoft
+2025-07-18 19:03:14,561 - INFO - Markdown length: 3081
+2025-07-18 19:03:14,561 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-sap
+2025-07-18 19:03:14,562 - INFO - Markdown length: 4583
+2025-07-18 19:03:15,984 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-siebel
+2025-07-18 19:03:15,985 - INFO - Markdown length: 4752
+2025-07-18 19:03:15,985 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-tuxedo
+2025-07-18 19:03:15,985 - INFO - Markdown length: 3081
+2025-07-18 19:03:15,986 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-adapter-service-engine-for-websphere-mq
+2025-07-18 19:03:15,986 - INFO - Markdown length: 3081
+2025-07-18 19:03:18,224 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-binding-type-for-adapters
+2025-07-18 19:03:18,224 - INFO - Markdown length: 2810
+2025-07-18 19:03:18,225 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-binding-type-for-ejb
+2025-07-18 19:03:18,225 - INFO - Markdown length: 4471
+2025-07-18 19:03:18,225 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-binding-type-for-ldap
+2025-07-18 19:03:18,225 - INFO - Markdown length: 2385
+2025-07-18 19:03:19,360 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-binding-type-for-rest
+2025-07-18 19:03:19,360 - INFO - Markdown length: 3081
+2025-07-18 19:03:19,361 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-bpm
+2025-07-18 19:03:19,361 - INFO - Markdown length: 3081
+2025-07-18 19:03:19,361 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-bpm-mobilespace-for-ios-1-0-0
+2025-07-18 19:03:19,362 - INFO - Markdown length: 3081
+2025-07-18 19:03:20,581 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks
+2025-07-18 19:03:20,581 - INFO - Markdown length: 16398
+2025-07-18 19:03:20,581 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-activeaspects-plug-in
+2025-07-18 19:03:20,582 - INFO - Markdown length: 3081
+2025-07-18 19:03:20,582 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-bpel-extension
+2025-07-18 19:03:20,582 - INFO - Markdown length: 3081
+2025-07-18 19:03:21,780 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-component-for-aws-common-services
+2025-07-18 19:03:21,780 - INFO - Markdown length: 4423
+2025-07-18 19:03:21,780 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-development-kit
+2025-07-18 19:03:21,780 - INFO - Markdown length: 4656
+2025-07-18 19:03:21,781 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-activespaces
+2025-07-18 19:03:21,781 - INFO - Markdown length: 3081
+2025-07-18 19:03:23,108 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-amazon-redshift
+2025-07-18 19:03:23,108 - INFO - Markdown length: 3081
+2025-07-18 19:03:23,108 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-amazon-s3
+2025-07-18 19:03:23,109 - INFO - Markdown length: 3081
+2025-07-18 19:03:23,109 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-amazon-sqs-and-sns
+2025-07-18 19:03:23,109 - INFO - Markdown length: 3081
+2025-07-18 19:03:24,188 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-amqp
+2025-07-18 19:03:24,189 - INFO - Markdown length: 3081
+2025-07-18 19:03:24,189 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-apache-cassandra
+2025-07-18 19:03:24,189 - INFO - Markdown length: 3081
+2025-07-18 19:03:24,190 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-apache-kafka
+2025-07-18 19:03:24,190 - INFO - Markdown length: 4988
+2025-07-18 19:03:25,537 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-apache-pulsar
+2025-07-18 19:03:25,538 - INFO - Markdown length: 3081
+2025-07-18 19:03:25,538 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-applicability-statement-2-as2-protocol
+2025-07-18 19:03:25,539 - INFO - Markdown length: 3081
+2025-07-18 19:03:25,539 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-azure-cloud-services-azure-data-lake-storage-gen2
+2025-07-18 19:03:25,539 - INFO - Markdown length: 4784
+2025-07-18 19:03:26,747 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-b2b
+2025-07-18 19:03:26,747 - INFO - Markdown length: 3081
+2025-07-18 19:03:26,747 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-big-data
+2025-07-18 19:03:26,748 - INFO - Markdown length: 3081
+2025-07-18 19:03:26,748 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-businessconnect
+2025-07-18 19:03:26,748 - INFO - Markdown length: 3081
+2025-07-18 19:03:28,103 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-change-data-capture
+2025-07-18 19:03:28,103 - INFO - Markdown length: 3081
+2025-07-18 19:03:28,103 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-cics
+2025-07-18 19:03:28,104 - INFO - Markdown length: 3081
+2025-07-18 19:03:28,104 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-confidentiality
+2025-07-18 19:03:28,104 - INFO - Markdown length: 3081
+2025-07-18 19:03:29,269 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-data-conversion
+2025-07-18 19:03:29,269 - INFO - Markdown length: 5053
+2025-07-18 19:03:29,270 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-database
+2025-07-18 19:03:29,270 - INFO - Markdown length: 3081
+2025-07-18 19:03:29,270 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-edi
+2025-07-18 19:03:29,270 - INFO - Markdown length: 3081
+2025-07-18 19:03:30,389 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-edi-healthcare-edition
+2025-07-18 19:03:30,390 - INFO - Markdown length: 3081
+2025-07-18 19:03:30,390 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-edi-standard-edition
+2025-07-18 19:03:30,391 - INFO - Markdown length: 3081
+2025-07-18 19:03:30,391 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-ejb
+2025-07-18 19:03:30,391 - INFO - Markdown length: 3081
+2025-07-18 19:03:31,538 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-facebook
+2025-07-18 19:03:31,539 - INFO - Markdown length: 3081
+2025-07-18 19:03:31,539 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-files-for-unix-and-windows
+2025-07-18 19:03:31,539 - INFO - Markdown length: 3081
+2025-07-18 19:03:31,539 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-formvine
+2025-07-18 19:03:31,540 - INFO - Markdown length: 3081
+2025-07-18 19:03:32,860 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-google-bigquery
+2025-07-18 19:03:32,860 - INFO - Markdown length: 3081
+2025-07-18 19:03:32,860 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-google-cloud-pub-sub
+2025-07-18 19:03:32,860 - INFO - Markdown length: 3081
+2025-07-18 19:03:32,861 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-google-cloud-storage
+2025-07-18 19:03:32,861 - INFO - Markdown length: 3081
+2025-07-18 19:03:34,003 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-hl7-with-fhir
+2025-07-18 19:03:34,003 - INFO - Markdown length: 3081
+2025-07-18 19:03:34,004 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-ibm-i
+2025-07-18 19:03:34,004 - INFO - Markdown length: 3081
+2025-07-18 19:03:34,004 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-ibm-mq
+2025-07-18 19:03:34,004 - INFO - Markdown length: 3081
+2025-07-18 19:03:35,131 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-jd-edwards-enterpriseone
+2025-07-18 19:03:35,132 - INFO - Markdown length: 3081
+2025-07-18 19:03:35,132 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-large-xml
+2025-07-18 19:03:35,132 - INFO - Markdown length: 3081
+2025-07-18 19:03:35,132 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-ldap
+2025-07-18 19:03:35,133 - INFO - Markdown length: 3081
+2025-07-18 19:03:36,285 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-marketo
+2025-07-18 19:03:36,285 - INFO - Markdown length: 3081
+2025-07-18 19:03:36,285 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-mdm
+2025-07-18 19:03:36,286 - INFO - Markdown length: 3081
+2025-07-18 19:03:36,286 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-microsoft-dynamics-crm
+2025-07-18 19:03:36,286 - INFO - Markdown length: 3081
+2025-07-18 19:03:37,412 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-microsoft-excel
+2025-07-18 19:03:37,412 - INFO - Markdown length: 3081
+2025-07-18 19:03:37,412 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-microsoft-sharepoint
+2025-07-18 19:03:37,413 - INFO - Markdown length: 3081
+2025-07-18 19:03:37,413 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-mobile-integration
+2025-07-18 19:03:37,413 - INFO - Markdown length: 3081
+2025-07-18 19:03:38,539 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-mongodb
+2025-07-18 19:03:38,540 - INFO - Markdown length: 3081
+2025-07-18 19:03:38,540 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-netsuite
+2025-07-18 19:03:38,540 - INFO - Markdown length: 3081
+2025-07-18 19:03:38,540 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-odata
+2025-07-18 19:03:38,541 - INFO - Markdown length: 3081
+2025-07-18 19:03:39,871 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-odata-services-for-sap-s-4hana
+2025-07-18 19:03:39,872 - INFO - Markdown length: 3081
+2025-07-18 19:03:39,872 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-openspirit
+2025-07-18 19:03:39,872 - INFO - Markdown length: 3081
+2025-07-18 19:03:39,872 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-oracle-e-business-suite
+2025-07-18 19:03:39,873 - INFO - Markdown length: 3081
+2025-07-18 19:03:41,073 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-oracle-fusion-cloud-applications-suite
+2025-07-18 19:03:41,074 - INFO - Markdown length: 5009
+2025-07-18 19:03:41,074 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-oracle-tuxedo
+2025-07-18 19:03:41,074 - INFO - Markdown length: 3081
+2025-07-18 19:03:41,075 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-osb
+2025-07-18 19:03:41,075 - INFO - Markdown length: 4479
+2025-07-18 19:03:42,628 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-osisoft-pi-system
+2025-07-18 19:03:42,629 - INFO - Markdown length: 3081
+2025-07-18 19:03:42,629 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-pdf
+2025-07-18 19:03:42,629 - INFO - Markdown length: 3081
+2025-07-18 19:03:42,630 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-peoplesoft
+2025-07-18 19:03:42,630 - INFO - Markdown length: 3081
+2025-07-18 19:03:43,748 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-redis
+2025-07-18 19:03:43,748 - INFO - Markdown length: 3081
+2025-07-18 19:03:43,749 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-rest-and-json
+2025-07-18 19:03:43,749 - INFO - Markdown length: 4860
+2025-07-18 19:03:43,749 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-salesforce-com
+2025-07-18 19:03:43,749 - INFO - Markdown length: 3081
+2025-07-18 19:03:44,890 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-sap-ariba
+2025-07-18 19:03:44,891 - INFO - Markdown length: 3081
+2025-07-18 19:03:44,891 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-sap-business-technology-platform
+2025-07-18 19:03:44,891 - INFO - Markdown length: 3081
+2025-07-18 19:03:44,891 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-sap-hana-database
+2025-07-18 19:03:44,892 - INFO - Markdown length: 3081
+2025-07-18 19:03:46,223 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-sap-solutions
+2025-07-18 19:03:46,223 - INFO - Markdown length: 3081
+2025-07-18 19:03:46,223 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-sap-successfactors
+2025-07-18 19:03:46,224 - INFO - Markdown length: 3081
+2025-07-18 19:03:46,224 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-servicenow
+2025-07-18 19:03:46,224 - INFO - Markdown length: 3081
+2025-07-18 19:03:47,562 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-sftp
+2025-07-18 19:03:47,562 - INFO - Markdown length: 3081
+2025-07-18 19:03:47,562 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-siebel
+2025-07-18 19:03:47,563 - INFO - Markdown length: 3081
+2025-07-18 19:03:47,563 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-smartmapper
+2025-07-18 19:03:47,563 - INFO - Markdown length: 3081
+2025-07-18 19:03:48,577 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-smpp
+2025-07-18 19:03:48,578 - INFO - Markdown length: 3081
+2025-07-18 19:03:48,578 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-snowflake
+2025-07-18 19:03:48,578 - INFO - Markdown length: 4834
+2025-07-18 19:03:48,579 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-swift
+2025-07-18 19:03:48,579 - INFO - Markdown length: 3081
+2025-07-18 19:03:49,737 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-tibco-auditsafe
+2025-07-18 19:03:49,737 - INFO - Markdown length: 3081
+2025-07-18 19:03:49,738 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-tibco-clarity
+2025-07-18 19:03:49,738 - INFO - Markdown length: 3081
+2025-07-18 19:03:49,738 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-tibco-eftl
+2025-07-18 19:03:49,739 - INFO - Markdown length: 3081
+2025-07-18 19:03:51,257 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-tibco-ftl
+2025-07-18 19:03:51,258 - INFO - Markdown length: 3081
+2025-07-18 19:03:51,258 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-tibco-managed-file-transfer
+2025-07-18 19:03:51,258 - INFO - Markdown length: 3081
+2025-07-18 19:03:51,259 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-tibco-patterns
+2025-07-18 19:03:51,259 - INFO - Markdown length: 3081
+2025-07-18 19:03:52,660 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-transaction-insight
+2025-07-18 19:03:52,661 - INFO - Markdown length: 3081
+2025-07-18 19:03:52,661 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-trillium
+2025-07-18 19:03:52,661 - INFO - Markdown length: 3081
+2025-07-18 19:03:52,662 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-twitter
+2025-07-18 19:03:52,662 - INFO - Markdown length: 3081
+2025-07-18 19:03:53,797 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-plug-in-for-workday
+2025-07-18 19:03:53,797 - INFO - Markdown length: 3081
+2025-07-18 19:03:53,797 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-service-engine-plug-in-for-oracle-e-business-suite
+2025-07-18 19:03:53,798 - INFO - Markdown length: 3081
+2025-07-18 19:03:53,798 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-service-engine-plug-in-for-smartmapper
+2025-07-18 19:03:53,798 - INFO - Markdown length: 3081
+2025-07-18 19:03:55,539 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-businessworks-smartmapper-enterprise-server
+2025-07-18 19:03:55,539 - INFO - Markdown length: 3081
+2025-07-18 19:03:55,539 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-decisions
+2025-07-18 19:03:55,540 - INFO - Markdown length: 3081
+2025-07-18 19:03:55,540 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-decisions-distribution-for-tibco-silver-fabric
+2025-07-18 19:03:55,540 - INFO - Markdown length: 2110
+2025-07-18 19:03:56,861 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-implementation-type-for-c++
+2025-07-18 19:03:56,862 - INFO - Markdown length: 3081
+2025-07-18 19:03:56,862 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-implementation-type-for-microsoft-clr
+2025-07-18 19:03:56,862 - INFO - Markdown length: 3081
+2025-07-18 19:03:56,863 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-implementation-type-for-scripting-in-ruby
+2025-07-18 19:03:56,863 - INFO - Markdown length: 3081
+2025-07-18 19:03:57,903 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-implementation-type-for-tibco-adapters
+2025-07-18 19:03:57,903 - INFO - Markdown length: 3081
+2025-07-18 19:03:57,903 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-implementation-type-for-wcf-host
+2025-07-18 19:03:57,904 - INFO - Markdown length: 3081
+2025-07-18 19:03:57,904 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-management-agent-for-wcf
+2025-07-18 19:03:57,904 - INFO - Markdown length: 3081
+2025-07-18 19:03:59,567 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-management-agent-for-websphere
+2025-07-18 19:03:59,568 - INFO - Markdown length: 3081
+2025-07-18 19:03:59,568 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-policy-director
+2025-07-18 19:03:59,568 - INFO - Markdown length: 3790
+2025-07-18 19:03:59,569 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-policy-manager
+2025-07-18 19:03:59,569 - INFO - Markdown length: 1792
+2025-07-18 19:04:00,950 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-runtime-uddi-server
+2025-07-18 19:04:00,951 - INFO - Markdown length: 3081
+2025-07-18 19:04:00,951 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-service-bus
+2025-07-18 19:04:00,952 - INFO - Markdown length: 3081
+2025-07-18 19:04:00,952 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-service-gateway
+2025-07-18 19:04:00,952 - INFO - Markdown length: 3081
+2025-07-18 19:04:02,056 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-service-grid
+2025-07-18 19:04:02,056 - INFO - Markdown length: 7456
+2025-07-18 19:04:02,056 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-service-grid-container-edition
+2025-07-18 19:04:02,057 - INFO - Markdown length: 7546
+2025-07-18 19:04:02,057 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-spotfire-enabler
+2025-07-18 19:04:02,057 - INFO - Markdown length: 4335
+2025-07-18 19:04:03,201 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activematrix-updater-tool-for-java-runtime-environment-jre
+2025-07-18 19:04:03,201 - INFO - Markdown length: 3081
+2025-07-18 19:04:03,202 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activespaces-enterprise-edition
+2025-07-18 19:04:03,202 - INFO - Markdown length: 5326
+2025-07-18 19:04:03,202 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activespaces-connector-for-apache-kafka-enterprise-edition
+2025-07-18 19:04:03,202 - INFO - Markdown length: 3081
+2025-07-18 19:04:04,382 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activespaces-connector-for-apache-pulsar-enterprise-edition
+2025-07-18 19:04:04,383 - INFO - Markdown length: 3081
+2025-07-18 19:04:04,383 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activespaces-enterprise-edition-add-on
+2025-07-18 19:04:04,383 - INFO - Markdown length: 3081
+2025-07-18 19:04:04,383 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activespaces-remote-client
+2025-07-18 19:04:04,384 - INFO - Markdown length: 3081
+2025-07-18 19:04:05,449 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-activespaces-transactions
+2025-07-18 19:04:05,450 - INFO - Markdown length: 5352
+2025-07-18 19:04:05,450 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-adapter-for-files-ibm-i
+2025-07-18 19:04:05,450 - INFO - Markdown length: 3081
+2025-07-18 19:04:06,884 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-adapter-for-files-z-os-mvs
+2025-07-18 19:04:06,884 - INFO - Markdown length: 3081
+2025-07-18 19:04:06,885 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-adapter-for-infranet-5-2-0
+2025-07-18 19:04:06,885 - INFO - Markdown length: 4028
+2025-07-18 19:04:06,885 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-adapter-for-oracle-applications
+2025-07-18 19:04:06,886 - INFO - Markdown length: 4290
+2025-07-18 19:04:08,035 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-adapter-migration
+2025-07-18 19:04:08,035 - INFO - Markdown length: 3081
+2025-07-18 19:04:08,036 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-adapter-sdk
+2025-07-18 19:04:08,036 - INFO - Markdown length: 3081
+2025-07-18 19:04:08,037 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-administrator-enterprise-edition
+2025-07-18 19:04:08,037 - INFO - Markdown length: 3081
+2025-07-18 19:04:09,363 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-administrator-enterprise-edition-distribution-for-tibco-silver-fabric
+2025-07-18 19:04:09,364 - INFO - Markdown length: 3081
+2025-07-18 19:04:09,364 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-analytics
+2025-07-18 19:04:09,365 - INFO - Markdown length: 3081
+2025-07-18 19:04:09,365 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-analytics-business-author-add-on
+2025-07-18 19:04:09,365 - INFO - Markdown length: 3081
+2025-07-18 19:04:10,949 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-analytics-consumer-add-on
+2025-07-18 19:04:10,949 - INFO - Markdown length: 3081
+2025-07-18 19:04:10,950 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-api-exchange-gateway
+2025-07-18 19:04:10,950 - INFO - Markdown length: 3081
+2025-07-18 19:04:10,950 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-api-exchange-gateway-distribution-for-tibco-silver-fabric
+2025-07-18 19:04:10,950 - INFO - Markdown length: 2114
+2025-07-18 19:04:12,144 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-api-exchange-manager
+2025-07-18 19:04:12,145 - INFO - Markdown length: 3081
+2025-07-18 19:04:12,145 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-application-integration-b2b
+2025-07-18 19:04:12,146 - INFO - Markdown length: 3081
+2025-07-18 19:04:12,146 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-auditsafe
+2025-07-18 19:04:12,146 - INFO - Markdown length: 3081
+2025-07-18 19:04:19,773 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-bpm-enterprise
+2025-07-18 19:04:19,773 - INFO - Markdown length: 10064
+2025-07-18 19:04:19,774 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-bpm-suite
+2025-07-18 19:04:19,774 - INFO - Markdown length: 3081
+2025-07-18 19:04:19,774 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-business-studio-analyst-edition
+2025-07-18 19:04:19,774 - INFO - Markdown length: 3081
+2025-07-18 19:04:20,900 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-business-studio-bpm-edition
+2025-07-18 19:04:20,900 - INFO - Markdown length: 3081
+2025-07-18 19:04:20,901 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-business-studio-community-edition
+2025-07-18 19:04:20,901 - INFO - Markdown length: 3081
+2025-07-18 19:04:20,902 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-business-studio-activematrix-decisions-add-in
+2025-07-18 19:04:20,902 - INFO - Markdown length: 3081
+2025-07-18 19:04:22,202 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-business-studio-for-analysts
+2025-07-18 19:04:22,202 - INFO - Markdown length: 3081
+2025-07-18 19:04:22,202 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-business-studio-iprocess-add-in
+2025-07-18 19:04:22,203 - INFO - Markdown length: 3081
+2025-07-18 19:04:22,203 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect
+2025-07-18 19:04:22,203 - INFO - Markdown length: 13494
+2025-07-18 19:04:23,383 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-b2bplugin-for-cmi
+2025-07-18 19:04:23,383 - INFO - Markdown length: 4928
+2025-07-18 19:04:23,384 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-configstore-management-interface-protocol
+2025-07-18 19:04:23,384 - INFO - Markdown length: 4651
+2025-07-18 19:04:23,385 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition
+2025-07-18 19:04:23,385 - INFO - Markdown length: 13584
+2025-07-18 19:04:24,611 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-ebxml-protocol
+2025-07-18 19:04:24,612 - INFO - Markdown length: 4375
+2025-07-18 19:04:24,612 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-edi-protocol-hipaa-edition-powered-by-instream
+2025-07-18 19:04:24,613 - INFO - Markdown length: 3081
+2025-07-18 19:04:24,613 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-edi-protocol-powered-by-instream
+2025-07-18 19:04:24,613 - INFO - Markdown length: 5327
+2025-07-18 19:04:25,943 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-rosettanet-protocol
+2025-07-18 19:04:25,943 - INFO - Markdown length: 3081
+2025-07-18 19:04:25,943 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-services-plug-in
+2025-07-18 19:04:25,944 - INFO - Markdown length: 3081
+2025-07-18 19:04:25,944 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-soap-protocol
+2025-07-18 19:04:25,944 - INFO - Markdown length: 3081
+2025-07-18 19:04:27,247 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-container-edition-configstore-management-interface-protocol
+2025-07-18 19:04:27,248 - INFO - Markdown length: 4277
+2025-07-18 19:04:27,248 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-cxml-protocol
+2025-07-18 19:04:27,249 - INFO - Markdown length: 3081
+2025-07-18 19:04:28,388 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-ebxml-protocol
+2025-07-18 19:04:28,389 - INFO - Markdown length: 3081
+2025-07-18 19:04:28,389 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-edi-protocol-hipaa-edition-powered-by-instream
+2025-07-18 19:04:28,389 - INFO - Markdown length: 3081
+2025-07-18 19:04:28,390 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-edi-protocol-powered-by-instream
+2025-07-18 19:04:28,390 - INFO - Markdown length: 3081
+2025-07-18 19:04:29,813 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-palette
+2025-07-18 19:04:29,814 - INFO - Markdown length: 3081
+2025-07-18 19:04:29,814 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-palette-distribution-for-tibco-silver-fabric
+2025-07-18 19:04:29,814 - INFO - Markdown length: 3501
+2025-07-18 19:04:29,814 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-partner-management-portal
+2025-07-18 19:04:29,815 - INFO - Markdown length: 3081
+2025-07-18 19:04:31,360 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-plug-in-for-ftp-server
+2025-07-18 19:04:31,360 - INFO - Markdown length: 3081
+2025-07-18 19:04:31,361 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-plug-in-for-ssh-server
+2025-07-18 19:04:31,361 - INFO - Markdown length: 3081
+2025-07-18 19:04:31,361 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-remote
+2025-07-18 19:04:31,362 - INFO - Markdown length: 3081
+2025-07-18 19:04:32,407 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-rosettanet-protocol
+2025-07-18 19:04:32,408 - INFO - Markdown length: 3081
+2025-07-18 19:04:32,408 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-services-plug-in
+2025-07-18 19:04:32,408 - INFO - Markdown length: 3081
+2025-07-18 19:04:32,409 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-soap-protocol
+2025-07-18 19:04:32,409 - INFO - Markdown length: 3081
+2025-07-18 19:04:33,750 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessconnect-trading-community-management
+2025-07-18 19:04:33,750 - INFO - Markdown length: 3081
+2025-07-18 19:04:33,751 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-data-modeling
+2025-07-18 19:04:33,751 - INFO - Markdown length: 3081
+2025-07-18 19:04:33,751 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-decision-manager
+2025-07-18 19:04:33,751 - INFO - Markdown length: 3081
+2025-07-18 19:04:35,088 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-enterprise-edition
+2025-07-18 19:04:35,088 - INFO - Markdown length: 13971
+2025-07-18 19:04:35,088 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-event-stream-processing
+2025-07-18 19:04:35,089 - INFO - Markdown length: 3081
+2025-07-18 19:04:35,089 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-extreme
+2025-07-18 19:04:35,089 - INFO - Markdown length: 3081
+2025-07-18 19:04:36,324 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-plug-in-for-edi-healthcare-edition
+2025-07-18 19:04:36,324 - INFO - Markdown length: 4811
+2025-07-18 19:04:36,324 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-plug-in-for-edi-standard-edition
+2025-07-18 19:04:36,325 - INFO - Markdown length: 4748
+2025-07-18 19:04:36,325 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-process-orchestration
+2025-07-18 19:04:36,325 - INFO - Markdown length: 5224
+2025-07-18 19:04:37,529 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessevents-views
+2025-07-18 19:04:37,530 - INFO - Markdown length: 3081
+2025-07-18 19:04:37,530 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-cobol-copybook-plug-in
+2025-07-18 19:04:37,530 - INFO - Markdown length: 3081
+2025-07-18 19:04:38,839 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-container-edition
+2025-07-18 19:04:38,839 - INFO - Markdown length: 3081
+2025-07-18 19:04:38,839 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-container-edition-buildpack-for-pcf
+2025-07-18 19:04:38,840 - INFO - Markdown length: 3081
+2025-07-18 19:04:38,840 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-enterprise
+2025-07-18 19:04:38,840 - INFO - Markdown length: 3081
+2025-07-18 19:04:40,425 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-formbuilder
+2025-07-18 19:04:40,425 - INFO - Markdown length: 4265
+2025-07-18 19:04:40,426 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-integrationmanager-plug-in
+2025-07-18 19:04:40,426 - INFO - Markdown length: 3081
+2025-07-18 19:04:40,426 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-businessworks-processmonitor
+2025-07-18 19:04:40,426 - INFO - Markdown length: 3081
+2025-07-18 19:04:41,750 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-clarity
+2025-07-18 19:04:41,750 - INFO - Markdown length: 3081
+2025-07-18 19:04:41,751 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-clarity-cloud-edition
+2025-07-18 19:04:41,751 - INFO - Markdown length: 4251
+2025-07-18 19:04:43,340 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-clarity-enterprise-edition
+2025-07-18 19:04:43,340 - INFO - Markdown length: 4467
+2025-07-18 19:04:43,341 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud
+2025-07-18 19:04:43,341 - INFO - Markdown length: 3702
+2025-07-18 19:04:43,341 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-administration
+2025-07-18 19:04:43,341 - INFO - Markdown length: 3430
+2025-07-18 19:04:44,714 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-api-modeler
+2025-07-18 19:04:44,714 - INFO - Markdown length: 3081
+2025-07-18 19:04:44,714 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-auditsafe
+2025-07-18 19:04:44,714 - INFO - Markdown length: 3583
+2025-07-18 19:04:44,715 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-bus
+2025-07-18 19:04:44,715 - INFO - Markdown length: 3081
+2025-07-18 19:04:46,208 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-data-streams
+2025-07-18 19:04:46,209 - INFO - Markdown length: 3979
+2025-07-18 19:04:46,209 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-ebx
+2025-07-18 19:04:46,210 - INFO - Markdown length: 3752
+2025-07-18 19:04:46,210 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-events
+2025-07-18 19:04:46,210 - INFO - Markdown length: 13824
+2025-07-18 19:04:47,596 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-businessworks-payg
+2025-07-18 19:04:47,597 - INFO - Markdown length: 3081
+2025-07-18 19:04:47,597 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-flogo-payg
+2025-07-18 19:04:47,597 - INFO - Markdown length: 3081
+2025-07-18 19:04:47,598 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-hybrid
+2025-07-18 19:04:47,598 - INFO - Markdown length: 3081
+2025-07-18 19:04:48,733 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-hybrid-connectivity-add-on
+2025-07-18 19:04:48,734 - INFO - Markdown length: 3081
+2025-07-18 19:04:48,734 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-hybrid-plan
+2025-07-18 19:04:48,734 - INFO - Markdown length: 3081
+2025-07-18 19:04:48,735 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-for-salesforce
+2025-07-18 19:04:48,735 - INFO - Markdown length: 3081
+2025-07-18 19:04:50,222 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-integration-ipaas
+2025-07-18 19:04:50,223 - INFO - Markdown length: 12925
+2025-07-18 19:04:50,223 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-live-apps
+2025-07-18 19:04:50,223 - INFO - Markdown length: 4314
+2025-07-18 19:04:50,224 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-mdm
+2025-07-18 19:04:50,224 - INFO - Markdown length: 3922
+2025-07-18 19:04:51,351 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-messaging
+2025-07-18 19:04:51,351 - INFO - Markdown length: 3799
+2025-07-18 19:04:51,351 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-metadata
+2025-07-18 19:04:51,351 - INFO - Markdown length: 3846
+2025-07-18 19:04:51,352 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-nimbus-essentials
+2025-07-18 19:04:51,352 - INFO - Markdown length: 3369
+2025-07-18 19:04:52,681 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-nimbus-professional
+2025-07-18 19:04:52,681 - INFO - Markdown length: 3385
+2025-07-18 19:04:52,682 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-passport
+2025-07-18 19:04:52,682 - INFO - Markdown length: 9546
+2025-07-18 19:04:52,683 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-cloud-spotfire
+2025-07-18 19:04:52,683 - INFO - Markdown length: 3081
+2025-07-18 19:04:53,837 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-computedb-enterprise-edition
+2025-07-18 19:04:53,837 - INFO - Markdown length: 3081
+2025-07-18 19:04:53,838 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-configuration-tool
+2025-07-18 19:04:53,838 - INFO - Markdown length: 3081
+2025-07-18 19:04:53,839 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-control-plane
+2025-07-18 19:04:53,839 - INFO - Markdown length: 3081
+2025-07-18 19:04:55,494 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-credit-union-adms-application-webfocus-add-on
+2025-07-18 19:04:55,494 - INFO - Markdown length: 1797
+2025-07-18 19:04:55,494 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-credit-union-cloud-adms-application-webfocus-add-on
+2025-07-18 19:04:55,495 - INFO - Markdown length: 2121
+2025-07-18 19:04:55,495 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-data-science-package-for-notebooks
+2025-07-18 19:04:55,495 - INFO - Markdown length: 3081
+2025-07-18 19:04:56,844 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-data-science-team-studio
+2025-07-18 19:04:56,845 - INFO - Markdown length: 3081
+2025-07-18 19:04:56,845 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-data-science-for-tibco-spotfire-analyst
+2025-07-18 19:04:56,845 - INFO - Markdown length: 3081
+2025-07-18 19:04:56,846 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-data-science-service-for-tibco-spotfire
+2025-07-18 19:04:56,846 - INFO - Markdown length: 3081
+2025-07-18 19:04:58,362 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-data-virtualization
+2025-07-18 19:04:58,362 - INFO - Markdown length: 9518
+2025-07-18 19:04:58,363 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-database-drivers-supplement
+2025-07-18 19:04:58,363 - INFO - Markdown length: 1776
+2025-07-18 19:04:58,363 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-datasynapse-federator
+2025-07-18 19:04:58,363 - INFO - Markdown length: 3081
+2025-07-18 19:04:59,935 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-datasynapse-gridserver-logviewer
+2025-07-18 19:04:59,935 - INFO - Markdown length: 3081
+2025-07-18 19:04:59,936 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-datasynapse-gridserver-manager
+2025-07-18 19:04:59,936 - INFO - Markdown length: 3081
+2025-07-18 19:04:59,936 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-datasynapse-high-performance-computing-cloud-adapter
+2025-07-18 19:04:59,936 - INFO - Markdown length: 2115
+2025-07-18 19:05:01,014 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-designer
+2025-07-18 19:05:01,015 - INFO - Markdown length: 3081
+2025-07-18 19:05:01,015 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-designer-add-in-for-tibco-business-studio
+2025-07-18 19:05:01,015 - INFO - Markdown length: 3081
+2025-07-18 19:05:01,015 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-dq-service-provider-dqs-add-on
+2025-07-18 19:05:01,015 - INFO - Markdown length: 3081
+2025-07-18 19:05:02,487 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-drivers
+2025-07-18 19:05:02,488 - INFO - Markdown length: 1772
+2025-07-18 19:05:02,488 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ebx
+2025-07-18 19:05:02,488 - INFO - Markdown length: 3081
+2025-07-18 19:05:02,489 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ebx-add-ons
+2025-07-18 19:05:02,489 - INFO - Markdown length: 8588
+2025-07-18 19:05:03,926 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ebx-cloud-enterprise
+2025-07-18 19:05:03,926 - INFO - Markdown length: 3081
+2025-07-18 19:05:03,927 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ebx-go-for-ios
+2025-07-18 19:05:03,927 - INFO - Markdown length: 1797
+2025-07-18 19:05:03,927 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-eftl-enterprise-edition
+2025-07-18 19:05:03,928 - INFO - Markdown length: 3081
+2025-07-18 19:05:05,090 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ems-client-for-ibm-i
+2025-07-18 19:05:05,091 - INFO - Markdown length: 3081
+2025-07-18 19:05:05,091 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ems-client-for-z-os-cics
+2025-07-18 19:05:05,091 - INFO - Markdown length: 3081
+2025-07-18 19:05:05,091 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ems-client-for-z-os-mvs
+2025-07-18 19:05:05,092 - INFO - Markdown length: 3081
+2025-07-18 19:05:06,225 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ems-transport-channel-for-wcf
+2025-07-18 19:05:06,226 - INFO - Markdown length: 3572
+2025-07-18 19:05:06,226 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-administrator
+2025-07-18 19:05:06,226 - INFO - Markdown length: 3081
+2025-07-18 19:05:06,226 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-administrator-sdk
+2025-07-18 19:05:06,227 - INFO - Markdown length: 3081
+2025-07-18 19:05:07,553 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-foresight
+2025-07-18 19:05:07,553 - INFO - Markdown length: 3081
+2025-07-18 19:05:07,554 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-foresight-healthcare-add-on
+2025-07-18 19:05:07,554 - INFO - Markdown length: 3081
+2025-07-18 19:05:07,554 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-mdm
+2025-07-18 19:05:07,555 - INFO - Markdown length: 3081
+2025-07-18 19:05:09,173 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-message-service
+2025-07-18 19:05:09,173 - INFO - Markdown length: 6792
+2025-07-18 19:05:09,174 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-streaming
+2025-07-18 19:05:09,174 - INFO - Markdown length: 1809
+2025-07-18 19:05:09,174 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-enterprise-streaming-high-performance-fix-engine
+2025-07-18 19:05:09,174 - INFO - Markdown length: 1769
+2025-07-18 19:05:10,258 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-event-processing
+2025-07-18 19:05:10,259 - INFO - Markdown length: 4430
+2025-07-18 19:05:10,259 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connection-for-microsoft-azure
+2025-07-18 19:05:10,259 - INFO - Markdown length: 4347
+2025-07-18 19:05:10,259 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connection-for-sap
+2025-07-18 19:05:10,259 - INFO - Markdown length: 3081
+2025-07-18 19:05:11,613 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-db-service
+2025-07-18 19:05:11,614 - INFO - Markdown length: 3081
+2025-07-18 19:05:11,614 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-dynamodb
+2025-07-18 19:05:11,615 - INFO - Markdown length: 3081
+2025-07-18 19:05:11,615 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-elastic-file-system
+2025-07-18 19:05:11,615 - INFO - Markdown length: 3081
+2025-07-18 19:05:13,012 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-glacier
+2025-07-18 19:05:13,012 - INFO - Markdown length: 3081
+2025-07-18 19:05:13,012 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-kinesis
+2025-07-18 19:05:13,013 - INFO - Markdown length: 3081
+2025-07-18 19:05:13,013 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-redshift
+2025-07-18 19:05:13,014 - INFO - Markdown length: 3081
+2025-07-18 19:05:14,271 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-s3
+2025-07-18 19:05:14,271 - INFO - Markdown length: 3081
+2025-07-18 19:05:14,272 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-sns
+2025-07-18 19:05:14,272 - INFO - Markdown length: 3081
+2025-07-18 19:05:14,272 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-amazon-sqs
+2025-07-18 19:05:14,273 - INFO - Markdown length: 3081
+2025-07-18 19:05:15,444 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-apache-avro
+2025-07-18 19:05:15,444 - INFO - Markdown length: 3081
+2025-07-18 19:05:15,444 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-apache-couchdb
+2025-07-18 19:05:15,444 - INFO - Markdown length: 4259
+2025-07-18 19:05:15,445 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-apache-kafka
+2025-07-18 19:05:15,445 - INFO - Markdown length: 4075
+2025-07-18 19:05:16,470 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-apache-pulsar
+2025-07-18 19:05:16,470 - INFO - Markdown length: 3902
+2025-07-18 19:05:16,471 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-apache-solr
+2025-07-18 19:05:16,471 - INFO - Markdown length: 4395
+2025-07-18 19:05:16,472 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-data-conversion
+2025-07-18 19:05:16,472 - INFO - Markdown length: 3081
+2025-07-18 19:05:17,517 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-docusign
+2025-07-18 19:05:17,518 - INFO - Markdown length: 3081
+2025-07-18 19:05:17,518 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-github
+2025-07-18 19:05:17,518 - INFO - Markdown length: 3081
+2025-07-18 19:05:17,518 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-google-cloud-pub-sub
+2025-07-18 19:05:17,519 - INFO - Markdown length: 3744
+2025-07-18 19:05:18,901 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-google-cloud-sql
+2025-07-18 19:05:18,902 - INFO - Markdown length: 4506
+2025-07-18 19:05:18,902 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-google-cloud-storage
+2025-07-18 19:05:18,903 - INFO - Markdown length: 3081
+2025-07-18 19:05:18,903 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-google-docs
+2025-07-18 19:05:18,903 - INFO - Markdown length: 3404
+2025-07-18 19:05:20,182 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-google-sheets
+2025-07-18 19:05:20,183 - INFO - Markdown length: 3081
+2025-07-18 19:05:20,183 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-greenplum-database
+2025-07-18 19:05:20,183 - INFO - Markdown length: 3421
+2025-07-18 19:05:20,184 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-http
+2025-07-18 19:05:20,184 - INFO - Markdown length: 3783
+2025-07-18 19:05:21,703 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-hubspot
+2025-07-18 19:05:21,704 - INFO - Markdown length: 4231
+2025-07-18 19:05:21,704 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-ibm-mq
+2025-07-18 19:05:21,705 - INFO - Markdown length: 3081
+2025-07-18 19:05:21,705 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-jira
+2025-07-18 19:05:21,705 - INFO - Markdown length: 4290
+2025-07-18 19:05:22,979 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-magento
+2025-07-18 19:05:22,980 - INFO - Markdown length: 4223
+2025-07-18 19:05:22,980 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-mailchimp
+2025-07-18 19:05:22,981 - INFO - Markdown length: 3081
+2025-07-18 19:05:22,981 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-marketo
+2025-07-18 19:05:22,982 - INFO - Markdown length: 3081
+2025-07-18 19:05:24,292 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-microsoft-azure-data-factory
+2025-07-18 19:05:24,293 - INFO - Markdown length: 3582
+2025-07-18 19:05:24,293 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-microsoft-azure-service-bus
+2025-07-18 19:05:24,293 - INFO - Markdown length: 4043
+2025-07-18 19:05:24,294 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-microsoft-azure-storage
+2025-07-18 19:05:24,294 - INFO - Markdown length: 3862
+2025-07-18 19:05:25,761 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-microsoft-sql-server
+2025-07-18 19:05:25,762 - INFO - Markdown length: 3081
+2025-07-18 19:05:25,763 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-mongodb
+2025-07-18 19:05:25,763 - INFO - Markdown length: 3081
+2025-07-18 19:05:25,764 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-mqtt
+2025-07-18 19:05:25,764 - INFO - Markdown length: 3081
+2025-07-18 19:05:27,015 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-odata
+2025-07-18 19:05:27,015 - INFO - Markdown length: 3560
+2025-07-18 19:05:27,016 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-oracle-database
+2025-07-18 19:05:27,016 - INFO - Markdown length: 3839
+2025-07-18 19:05:27,017 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-oracle-mysql
+2025-07-18 19:05:27,017 - INFO - Markdown length: 3768
+2025-07-18 19:05:28,244 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-postgresql
+2025-07-18 19:05:28,244 - INFO - Markdown length: 3783
+2025-07-18 19:05:28,245 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-redis
+2025-07-18 19:05:28,245 - INFO - Markdown length: 3081
+2025-07-18 19:05:28,246 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-riak
+2025-07-18 19:05:28,246 - INFO - Markdown length: 3081
+2025-07-18 19:05:29,769 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-salesforce-pardot
+2025-07-18 19:05:29,769 - INFO - Markdown length: 4504
+2025-07-18 19:05:29,770 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-salesforce-com
+2025-07-18 19:05:29,770 - INFO - Markdown length: 3995
+2025-07-18 19:05:29,770 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-salesforce-com-einstein-analytics
+2025-07-18 19:05:29,771 - INFO - Markdown length: 3081
+2025-07-18 19:05:31,271 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-sap-cloud-for-customer
+2025-07-18 19:05:31,272 - INFO - Markdown length: 3081
+2025-07-18 19:05:31,272 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-sap-hana-database
+2025-07-18 19:05:31,273 - INFO - Markdown length: 4575
+2025-07-18 19:05:31,273 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-sap-s-4hana-cloud
+2025-07-18 19:05:31,274 - INFO - Markdown length: 3081
+2025-07-18 19:05:32,546 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-sap-successfactors
+2025-07-18 19:05:32,547 - INFO - Markdown length: 3081
+2025-07-18 19:05:32,547 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-sftp
+2025-07-18 19:05:32,548 - INFO - Markdown length: 3081
+2025-07-18 19:05:32,548 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-slack
+2025-07-18 19:05:32,548 - INFO - Markdown length: 3081
+2025-07-18 19:05:33,937 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-snowflake
+2025-07-18 19:05:33,938 - INFO - Markdown length: 3762
+2025-07-18 19:05:33,938 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-stripe
+2025-07-18 19:05:33,939 - INFO - Markdown length: 4146
+2025-07-18 19:05:33,939 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-sugarcrm
+2025-07-18 19:05:33,940 - INFO - Markdown length: 4373
+2025-07-18 19:05:35,251 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-tibco-cloud-auditsafe
+2025-07-18 19:05:35,252 - INFO - Markdown length: 4451
+2025-07-18 19:05:35,252 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-tibco-cloud-messaging
+2025-07-18 19:05:35,253 - INFO - Markdown length: 3081
+2025-07-18 19:05:35,253 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-tibco-data-virtualization
+2025-07-18 19:05:35,254 - INFO - Markdown length: 3629
+2025-07-18 19:05:36,719 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-tibco-enterprise-message-service
+2025-07-18 19:05:36,719 - INFO - Markdown length: 3081
+2025-07-18 19:05:36,720 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-twilio
+2025-07-18 19:05:36,720 - INFO - Markdown length: 4205
+2025-07-18 19:05:36,720 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-websockets
+2025-07-18 19:05:36,721 - INFO - Markdown length: 3600
+2025-07-18 19:05:38,636 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-zoho-crm
+2025-07-18 19:05:38,637 - INFO - Markdown length: 4359
+2025-07-18 19:05:38,637 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-connector-for-zuora
+2025-07-18 19:05:38,637 - INFO - Markdown length: 4187
+2025-07-18 19:05:38,638 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-enterprise
+2025-07-18 19:05:38,638 - INFO - Markdown length: 9027
+2025-07-18 19:05:39,762 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-flogo-extension-for-visual-studio-code
+2025-07-18 19:05:39,762 - INFO - Markdown length: 3081
+2025-07-18 19:05:39,763 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-archive-and-retrieval-system
+2025-07-18 19:05:39,763 - INFO - Markdown length: 4726
+2025-07-18 19:05:39,764 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-businessconnect-insight
+2025-07-18 19:05:39,764 - INFO - Markdown length: 3081
+2025-07-18 19:05:41,569 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-connect-with-fhir
+2025-07-18 19:05:41,570 - INFO - Markdown length: 3081
+2025-07-18 19:05:41,570 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-edisim
+2025-07-18 19:05:41,570 - INFO - Markdown length: 3081
+2025-07-18 19:05:41,571 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-edisim-docsuite
+2025-07-18 19:05:41,571 - INFO - Markdown length: 2126
+2025-07-18 19:05:42,836 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-hipaa-validator-desktop
+2025-07-18 19:05:42,837 - INFO - Markdown length: 13385
+2025-07-18 19:05:42,837 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-icd-10-conversion-adapter
+2025-07-18 19:05:42,837 - INFO - Markdown length: 3081
+2025-07-18 19:05:42,838 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-instream
+2025-07-18 19:05:42,838 - INFO - Markdown length: 13310
+2025-07-18 19:05:44,247 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-instream-mac-adapter
+2025-07-18 19:05:44,247 - INFO - Markdown length: 3081
+2025-07-18 19:05:44,248 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-operational-monitor
+2025-07-18 19:05:44,248 - INFO - Markdown length: 3081
+2025-07-18 19:05:44,248 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-rest-api
+2025-07-18 19:05:44,249 - INFO - Markdown length: 5022
+2025-07-18 19:05:45,494 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-studio
+2025-07-18 19:05:45,494 - INFO - Markdown length: 13300
+2025-07-18 19:05:45,495 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-transaction-insight
+2025-07-18 19:05:45,495 - INFO - Markdown length: 3081
+2025-07-18 19:05:47,115 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-translator
+2025-07-18 19:05:47,115 - INFO - Markdown length: 3081
+2025-07-18 19:05:47,116 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-foresight-translator-attachment-adapter
+2025-07-18 19:05:47,116 - INFO - Markdown length: 3081
+2025-07-18 19:05:47,117 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-formvine
+2025-07-18 19:05:47,117 - INFO - Markdown length: 3631
+2025-07-18 19:05:48,543 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-ftl-enterprise-edition
+2025-07-18 19:05:48,544 - INFO - Markdown length: 3081
+2025-07-18 19:05:48,544 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-orchestration-suite
+2025-07-18 19:05:48,545 - INFO - Markdown length: 3081
+2025-07-18 19:05:48,545 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning
+2025-07-18 19:05:48,545 - INFO - Markdown length: 3081
+2025-07-18 19:05:49,806 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-client-adapter-for-bscs
+2025-07-18 19:05:49,806 - INFO - Markdown length: 3081
+2025-07-18 19:05:49,807 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-client-adapter-for-files
+2025-07-18 19:05:49,807 - INFO - Markdown length: 3081
+2025-07-18 19:05:49,807 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-client-adapter-for-http
+2025-07-18 19:05:49,808 - INFO - Markdown length: 3081
+2025-07-18 19:05:51,027 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-load-balancer
+2025-07-18 19:05:51,028 - INFO - Markdown length: 3081
+2025-07-18 19:05:51,028 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-files
+2025-07-18 19:05:51,028 - INFO - Markdown length: 4238
+2025-07-18 19:05:51,029 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-ftp
+2025-07-18 19:05:51,029 - INFO - Markdown length: 3081
+2025-07-18 19:05:52,422 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-http
+2025-07-18 19:05:52,422 - INFO - Markdown length: 3081
+2025-07-18 19:05:52,423 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-ldap
+2025-07-18 19:05:52,423 - INFO - Markdown length: 3081
+2025-07-18 19:05:52,424 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-odbc
+2025-07-18 19:05:52,424 - INFO - Markdown length: 3081
+2025-07-18 19:05:53,522 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-pad
+2025-07-18 19:05:53,523 - INFO - Markdown length: 3081
+2025-07-18 19:05:53,523 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-radius
+2025-07-18 19:05:53,523 - INFO - Markdown length: 4081
+2025-07-18 19:05:53,523 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-smpp
+2025-07-18 19:05:53,524 - INFO - Markdown length: 4039
+2025-07-18 19:05:54,891 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-snmp
+2025-07-18 19:05:54,891 - INFO - Markdown length: 3081
+2025-07-18 19:05:54,891 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-ssh
+2025-07-18 19:05:54,892 - INFO - Markdown length: 3081
+2025-07-18 19:05:54,892 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-telnet
+2025-07-18 19:05:54,892 - INFO - Markdown length: 4089
+2025-07-18 19:05:56,252 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-provisioning-session-layer-for-tftp
+2025-07-18 19:05:56,253 - INFO - Markdown length: 3081
+2025-07-18 19:05:56,253 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-studio
+2025-07-18 19:05:56,254 - INFO - Markdown length: 4312
+2025-07-18 19:05:56,254 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-fulfillment-subscriber-inventory
+2025-07-18 19:05:56,254 - INFO - Markdown length: 3081
+2025-07-18 19:05:57,439 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-gemini-powered-by-apache-cassandra
+2025-07-18 19:05:57,439 - INFO - Markdown length: 3081
+2025-07-18 19:05:57,440 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-general-interface-enterprise-edition
+2025-07-18 19:05:57,440 - INFO - Markdown length: 4201
+2025-07-18 19:05:57,441 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-geoanalytics
+2025-07-18 19:05:57,441 - INFO - Markdown length: 3797
+2025-07-18 19:05:58,787 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-geoanalytics-builder
+2025-07-18 19:05:58,788 - INFO - Markdown length: 3067
+2025-07-18 19:05:58,788 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-graph-database-community-edition
+2025-07-18 19:05:58,789 - INFO - Markdown length: 3081
+2025-07-18 19:05:58,789 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-graph-database-enterprise-edition
+2025-07-18 19:05:58,789 - INFO - Markdown length: 3081
+2025-07-18 19:06:00,311 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-grid-analytics
+2025-07-18 19:06:00,312 - INFO - Markdown length: 2103
+2025-07-18 19:06:00,313 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-container-edition
+2025-07-18 19:06:00,313 - INFO - Markdown length: 4489
+2025-07-18 19:06:00,313 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-activematrix-plug-in
+2025-07-18 19:06:00,314 - INFO - Markdown length: 4283
+2025-07-18 19:06:01,925 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-adapter-for-tivoli
+2025-07-18 19:06:01,926 - INFO - Markdown length: 2131
+2025-07-18 19:06:01,926 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-database-adapter
+2025-07-18 19:06:01,926 - INFO - Markdown length: 3081
+2025-07-18 19:06:01,926 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-jmx-plug-in
+2025-07-18 19:06:01,926 - INFO - Markdown length: 3081
+2025-07-18 19:06:03,340 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-microagent-for-tibco-activematrix-businessworks-6
+2025-07-18 19:06:03,341 - INFO - Markdown length: 3081
+2025-07-18 19:06:03,341 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-microagent-for-tibco-businessworks-container-edition
+2025-07-18 19:06:03,341 - INFO - Markdown length: 3081
+2025-07-18 19:06:03,341 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-microagent-for-tibco-ftl-tibco-eftl
+2025-07-18 19:06:03,342 - INFO - Markdown length: 3081
+2025-07-18 19:06:04,636 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hawk-snmp-adapter
+2025-07-18 19:06:04,637 - INFO - Markdown length: 4398
+2025-07-18 19:06:04,637 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-health-essentials-cloud
+2025-07-18 19:06:04,638 - INFO - Markdown length: 4105
+2025-07-18 19:06:04,638 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hybrid-integration
+2025-07-18 19:06:04,638 - INFO - Markdown length: 3081
+2025-07-18 19:06:06,129 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-hybrid-integration-connectivity-add-on
+2025-07-18 19:06:06,130 - INFO - Markdown length: 3081
+2025-07-18 19:06:06,130 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-inconcert
+2025-07-18 19:06:06,131 - INFO - Markdown length: 2135
+2025-07-18 19:06:06,131 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-integration
+2025-07-18 19:06:06,131 - INFO - Markdown length: 3081
+2025-07-18 19:06:07,224 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-integration-connectivity-add-on
+2025-07-18 19:06:07,224 - INFO - Markdown length: 23756
+2025-07-18 19:06:07,225 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-integration-connectivity-for-tibco-platform
+2025-07-18 19:06:07,225 - INFO - Markdown length: 4161
+2025-07-18 19:06:07,226 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-integration-for-tibco-platform
+2025-07-18 19:06:07,226 - INFO - Markdown length: 11190
+2025-07-18 19:06:09,078 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-integrationmanager
+2025-07-18 19:06:09,078 - INFO - Markdown length: 1785
+2025-07-18 19:06:09,078 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-analytics
+2025-07-18 19:06:09,079 - INFO - Markdown length: 1785
+2025-07-18 19:06:09,079 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-analytics-export
+2025-07-18 19:06:09,079 - INFO - Markdown length: 1789
+2025-07-18 19:06:10,294 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-client-asp
+2025-07-18 19:06:10,294 - INFO - Markdown length: 3081
+2025-07-18 19:06:10,295 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-client-jsp
+2025-07-18 19:06:10,295 - INFO - Markdown length: 4186
+2025-07-18 19:06:10,296 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-conductor
+2025-07-18 19:06:10,296 - INFO - Markdown length: 3081
+2025-07-18 19:06:11,338 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-decisions
+2025-07-18 19:06:11,339 - INFO - Markdown length: 4294
+2025-07-18 19:06:11,339 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-engine
+2025-07-18 19:06:11,340 - INFO - Markdown length: 3081
+2025-07-18 19:06:11,340 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-modeler
+2025-07-18 19:06:11,341 - INFO - Markdown length: 4610
+2025-07-18 19:06:12,995 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-objects
+2025-07-18 19:06:12,995 - INFO - Markdown length: 3081
+2025-07-18 19:06:12,996 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-plug-ins
+2025-07-18 19:06:12,996 - INFO - Markdown length: 1749
+2025-07-18 19:06:12,996 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-server-objects-net
+2025-07-18 19:06:12,997 - INFO - Markdown length: 3081
+2025-07-18 19:06:14,357 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-server-objects-java
+2025-07-18 19:06:14,358 - INFO - Markdown length: 3081
+2025-07-18 19:06:14,358 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-suite
+2025-07-18 19:06:14,358 - INFO - Markdown length: 3081
+2025-07-18 19:06:14,359 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-technology-plug-ins
+2025-07-18 19:06:14,359 - INFO - Markdown length: 3081
+2025-07-18 19:06:15,864 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-web-services-client-plug-in
+2025-07-18 19:06:15,865 - INFO - Markdown length: 4441
+2025-07-18 19:06:15,865 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-web-services-schema
+2025-07-18 19:06:15,866 - INFO - Markdown length: 2111
+2025-07-18 19:06:15,866 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-web-services-server-plug-in
+2025-07-18 19:06:15,866 - INFO - Markdown length: 4346
+2025-07-18 19:06:17,091 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-workspace-browser
+2025-07-18 19:06:17,092 - INFO - Markdown length: 3081
+2025-07-18 19:06:17,092 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-workspace-lite
+2025-07-18 19:06:17,092 - INFO - Markdown length: 4240
+2025-07-18 19:06:17,093 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-workspace-plug-ins
+2025-07-18 19:06:17,093 - INFO - Markdown length: 4393
+2025-07-18 19:06:18,279 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iprocess-workspace-windows
+2025-07-18 19:06:18,279 - INFO - Markdown length: 6340
+2025-07-18 19:06:18,279 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-it-operations-analytics
+2025-07-18 19:06:18,280 - INFO - Markdown length: 4649
+2025-07-18 19:06:18,280 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iway-business-activity-monitor
+2025-07-18 19:06:18,280 - INFO - Markdown length: 4265
+2025-07-18 19:06:19,796 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-iway-trading-partner-manager
+2025-07-18 19:06:19,796 - INFO - Markdown length: 4104
+2025-07-18 19:06:19,797 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-jaspersoft
+2025-07-18 19:06:19,797 - INFO - Markdown length: 6730
+2025-07-18 19:06:19,797 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-kabira-adapter-factory-for-corba
+2025-07-18 19:06:19,798 - INFO - Markdown length: 1789
+2025-07-18 19:06:21,006 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-kabira-adapter-factory-for-java
+2025-07-18 19:06:21,006 - INFO - Markdown length: 4113
+2025-07-18 19:06:21,006 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-kabira-adapter-factory-for-persistence
+2025-07-18 19:06:21,007 - INFO - Markdown length: 4052
+2025-07-18 19:06:21,007 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-kabira-adapter-factory-for-snmp
+2025-07-18 19:06:21,007 - INFO - Markdown length: 4041
+2025-07-18 19:06:22,205 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-kabira-builder
+2025-07-18 19:06:22,205 - INFO - Markdown length: 3081
+2025-07-18 19:06:22,206 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-live-datamart
+2025-07-18 19:06:22,206 - INFO - Markdown length: 3081
+2025-07-18 19:06:22,206 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-live-datamart-standard-edition
+2025-07-18 19:06:22,206 - INFO - Markdown length: 3081
+2025-07-18 19:06:24,042 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-live-visualization
+2025-07-18 19:06:24,042 - INFO - Markdown length: 2127
+2025-07-18 19:06:24,043 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-liveview-desktop
+2025-07-18 19:06:24,043 - INFO - Markdown length: 3081
+2025-07-18 19:06:24,043 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic
+2025-07-18 19:06:24,043 - INFO - Markdown length: 3081
+2025-07-18 19:06:27,433 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-manager
+2025-07-18 19:06:27,434 - INFO - Markdown length: 3081
+2025-07-18 19:06:27,434 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-fisma-edition
+2025-07-18 19:06:27,434 - INFO - Markdown length: 4581
+2025-07-18 19:06:27,435 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-gdpr-enterprise-edition
+2025-07-18 19:06:27,435 - INFO - Markdown length: 4646
+2025-07-18 19:06:28,601 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-gpg-13-edition
+2025-07-18 19:06:28,602 - INFO - Markdown length: 3081
+2025-07-18 19:06:28,602 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-hipaa-edition
+2025-07-18 19:06:28,602 - INFO - Markdown length: 3081
+2025-07-18 19:06:28,602 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-iso-edition
+2025-07-18 19:06:28,603 - INFO - Markdown length: 3081
+2025-07-18 19:06:29,830 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-nerc-edition
+2025-07-18 19:06:29,831 - INFO - Markdown length: 4563
+2025-07-18 19:06:29,831 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-pci-edition
+2025-07-18 19:06:29,831 - INFO - Markdown length: 4545
+2025-07-18 19:06:30,977 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-compliance-suite-sarbanes-oxley-edition
+2025-07-18 19:06:30,978 - INFO - Markdown length: 3081
+2025-07-18 19:06:30,978 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-database-security-manager-server
+2025-07-18 19:06:30,978 - INFO - Markdown length: 3081
+2025-07-18 19:06:30,979 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-database-security-manager-vulnerability-assessment
+2025-07-18 19:06:30,979 - INFO - Markdown length: 3081
+2025-07-18 19:06:32,376 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-enterprise-virtual-appliance
+2025-07-18 19:06:32,377 - INFO - Markdown length: 3081
+2025-07-18 19:06:32,377 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-enterprise-virtual-appliance-container-edition
+2025-07-18 19:06:32,377 - INFO - Markdown length: 3081
+2025-07-18 19:06:32,378 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-log-management-intelligence
+2025-07-18 19:06:32,378 - INFO - Markdown length: 3081
+2025-07-18 19:06:33,573 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-log-source-packages
+2025-07-18 19:06:33,574 - INFO - Markdown length: 3367
+2025-07-18 19:06:34,945 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-unity-plug-in-for-activematrix-businessworks
+2025-07-18 19:06:34,945 - INFO - Markdown length: 3081
+2025-07-18 19:06:34,946 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-universal-collector
+2025-07-18 19:06:34,946 - INFO - Markdown length: 3081
+2025-07-18 19:06:34,946 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-loglogic-visual-analytics
+2025-07-18 19:06:34,947 - INFO - Markdown length: 3081
+2025-07-18 19:06:36,653 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mainframe-red
+2025-07-18 19:06:36,653 - INFO - Markdown length: 1773
+2025-07-18 19:06:36,653 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mainframe-service-tracker
+2025-07-18 19:06:36,654 - INFO - Markdown length: 3081
+2025-07-18 19:06:36,654 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mainframe-tcp-library
+2025-07-18 19:06:36,654 - INFO - Markdown length: 3081
+2025-07-18 19:06:37,824 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mainframe-webui
+2025-07-18 19:06:37,824 - INFO - Markdown length: 3081
+2025-07-18 19:06:37,824 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-command-center
+2025-07-18 19:06:37,825 - INFO - Markdown length: 3081
+2025-07-18 19:06:37,825 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-internet-server
+2025-07-18 19:06:37,825 - INFO - Markdown length: 3081
+2025-07-18 19:06:39,212 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-internet-server-with-rocketstream-accelerator
+2025-07-18 19:06:39,212 - INFO - Markdown length: 3081
+2025-07-18 19:06:39,212 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-agent
+2025-07-18 19:06:39,213 - INFO - Markdown length: 4567
+2025-07-18 19:06:39,213 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-for-ibm-i
+2025-07-18 19:06:39,213 - INFO - Markdown length: 3081
+2025-07-18 19:06:40,557 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-for-unix
+2025-07-18 19:06:40,557 - INFO - Markdown length: 3081
+2025-07-18 19:06:40,557 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-for-windows
+2025-07-18 19:06:40,558 - INFO - Markdown length: 3081
+2025-07-18 19:06:40,558 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-for-windows-with-rocketstream-accelerator
+2025-07-18 19:06:40,558 - INFO - Markdown length: 3081
+2025-07-18 19:06:42,026 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-for-z-linux
+2025-07-18 19:06:42,027 - INFO - Markdown length: 3081
+2025-07-18 19:06:42,027 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-managed-file-transfer-platform-server-for-z-os
+2025-07-18 19:06:42,027 - INFO - Markdown length: 3081
+2025-07-18 19:06:42,027 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mdm
+2025-07-18 19:06:42,028 - INFO - Markdown length: 16626
+2025-07-18 19:06:43,132 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mdm-for-retail
+2025-07-18 19:06:43,132 - INFO - Markdown length: 4271
+2025-07-18 19:06:43,133 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-mdm-studio
+2025-07-18 19:06:43,133 - INFO - Markdown length: 5543
+2025-07-18 19:06:44,576 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging
+2025-07-18 19:06:44,577 - INFO - Markdown length: 3081
+2025-07-18 19:06:44,577 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-bridge-for-apache-kafka-community-edition
+2025-07-18 19:06:44,577 - INFO - Markdown length: 3081
+2025-07-18 19:06:44,577 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-bridge-for-apache-kafka-enterprise-edition
+2025-07-18 19:06:44,578 - INFO - Markdown length: 3081
+2025-07-18 19:06:45,955 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-bridge-for-apache-pulsar-community-edition
+2025-07-18 19:06:45,955 - INFO - Markdown length: 3621
+2025-07-18 19:06:45,955 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-bridge-for-apache-pulsar-enterprise-edition
+2025-07-18 19:06:45,955 - INFO - Markdown length: 3081
+2025-07-18 19:06:45,956 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-eclipse-mosquitto-distribution-bridge-enterprise-edition
+2025-07-18 19:06:45,956 - INFO - Markdown length: 4491
+2025-07-18 19:06:47,535 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-eclipse-mosquitto-distribution-core-enterprise-edition
+2025-07-18 19:06:47,535 - INFO - Markdown length: 3081
+2025-07-18 19:06:47,535 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-enterprise-edition
+2025-07-18 19:06:47,536 - INFO - Markdown length: 13116
+2025-07-18 19:06:47,536 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-schema-repository-for-apache-kafka-community-edition
+2025-07-18 19:06:47,536 - INFO - Markdown length: 3081
+2025-07-18 19:06:48,859 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-schema-repository-for-apache-kafka-enterprise-edition
+2025-07-18 19:06:48,860 - INFO - Markdown length: 3081
+2025-07-18 19:06:48,860 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-manager
+2025-07-18 19:06:48,860 - INFO - Markdown length: 3081
+2025-07-18 19:06:48,860 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-monitor-core
+2025-07-18 19:06:48,860 - INFO - Markdown length: 3081
+2025-07-18 19:06:50,144 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-monitor-for-apache-kafka
+2025-07-18 19:06:50,144 - INFO - Markdown length: 4328
+2025-07-18 19:06:50,145 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-monitor-for-apache-pulsar
+2025-07-18 19:06:50,145 - INFO - Markdown length: 4339
+2025-07-18 19:06:50,145 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-monitor-for-tibco-enterprise-message-service
+2025-07-18 19:06:50,146 - INFO - Markdown length: 4428
+2025-07-18 19:06:51,393 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-messaging-monitor-for-tibco-ftl
+2025-07-18 19:06:51,393 - INFO - Markdown length: 3081
+2025-07-18 19:06:51,393 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-modelops
+2025-07-18 19:06:51,394 - INFO - Markdown length: 3081
+2025-07-18 19:06:52,734 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-monitoring-1-0-0
+2025-07-18 19:06:52,734 - INFO - Markdown length: 3081
+2025-07-18 19:06:52,734 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-nimbus
+2025-07-18 19:06:52,735 - INFO - Markdown length: 3081
+2025-07-18 19:06:52,735 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-nimbus-player-desktop-edition
+2025-07-18 19:06:52,735 - INFO - Markdown length: 3081
+2025-07-18 19:06:53,915 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-nimbus-iphone-edition
+2025-07-18 19:06:53,915 - INFO - Markdown length: 3649
+2025-07-18 19:06:53,916 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-nimbus-maps
+2025-07-18 19:06:53,916 - INFO - Markdown length: 3081
+2025-07-18 19:06:53,916 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-nimbus-storyboard-player
+2025-07-18 19:06:53,916 - INFO - Markdown length: 3378
+2025-07-18 19:06:55,306 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-object-service-broker
+2025-07-18 19:06:55,306 - INFO - Markdown length: 13338
+2025-07-18 19:06:55,307 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-offer-and-price-engine
+2025-07-18 19:06:55,307 - INFO - Markdown length: 25672
+2025-07-18 19:06:55,308 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-omni-gen-dq-server
+2025-07-18 19:06:55,308 - INFO - Markdown length: 17756
+2025-07-18 19:06:56,727 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-omni-healthdata-cohort-builder
+2025-07-18 19:06:56,727 - INFO - Markdown length: 17816
+2025-07-18 19:06:56,728 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-omni-healthdata-healthviews
+2025-07-18 19:06:56,729 - INFO - Markdown length: 17801
+2025-07-18 19:06:56,729 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-omni-healthdata-reference-data
+2025-07-18 19:06:56,730 - INFO - Markdown length: 3999
+2025-07-18 19:06:57,921 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-omni-insurance-business-release
+2025-07-18 19:06:57,921 - INFO - Markdown length: 3081
+2025-07-18 19:06:57,921 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-adapter-for-petrel
+2025-07-18 19:06:57,922 - INFO - Markdown length: 3081
+2025-07-18 19:06:57,922 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-arcgis-extension
+2025-07-18 19:06:57,922 - INFO - Markdown length: 4216
+2025-07-18 19:06:59,371 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-copy-manager
+2025-07-18 19:06:59,372 - INFO - Markdown length: 3081
+2025-07-18 19:06:59,372 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-copy-rule-manager
+2025-07-18 19:06:59,372 - INFO - Markdown length: 3081
+2025-07-18 19:07:00,741 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-epos
+2025-07-18 19:07:00,741 - INFO - Markdown length: 3081
+2025-07-18 19:07:00,742 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-geoframe
+2025-07-18 19:07:00,742 - INFO - Markdown length: 3081
+2025-07-18 19:07:00,742 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-kingdom
+2025-07-18 19:07:00,742 - INFO - Markdown length: 3081
+2025-07-18 19:07:02,187 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-openworks
+2025-07-18 19:07:02,187 - INFO - Markdown length: 3081
+2025-07-18 19:07:02,188 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-petra
+2025-07-18 19:07:02,188 - INFO - Markdown length: 3081
+2025-07-18 19:07:02,188 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-ppdm
+2025-07-18 19:07:02,188 - INFO - Markdown length: 3081
+2025-07-18 19:07:03,575 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-recall
+2025-07-18 19:07:03,576 - INFO - Markdown length: 3081
+2025-07-18 19:07:03,576 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-segy
+2025-07-18 19:07:03,576 - INFO - Markdown length: 3081
+2025-07-18 19:07:03,577 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-data-connector-for-studio
+2025-07-18 19:07:03,577 - INFO - Markdown length: 3081
+2025-07-18 19:07:04,907 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-developer-kit
+2025-07-18 19:07:04,907 - INFO - Markdown length: 3081
+2025-07-18 19:07:04,908 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-extension-for-arcgis
+2025-07-18 19:07:04,908 - INFO - Markdown length: 3081
+2025-07-18 19:07:04,908 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-runtime
+2025-07-18 19:07:04,908 - INFO - Markdown length: 3081
+2025-07-18 19:07:06,074 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-scan-for-studio
+2025-07-18 19:07:06,075 - INFO - Markdown length: 3081
+2025-07-18 19:07:06,075 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-scan-utility
+2025-07-18 19:07:06,075 - INFO - Markdown length: 4469
+2025-07-18 19:07:06,076 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-web-server-2008
+2025-07-18 19:07:06,076 - INFO - Markdown length: 3843
+2025-07-18 19:07:07,473 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-openspirit-web-services
+2025-07-18 19:07:07,473 - INFO - Markdown length: 3081
+2025-07-18 19:07:07,473 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-operational-intelligence-hawk-redtail
+2025-07-18 19:07:07,474 - INFO - Markdown length: 9381
+2025-07-18 19:07:07,474 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-orchestra-networks
+2025-07-18 19:07:07,474 - INFO - Markdown length: 3862
+2025-07-18 19:07:08,885 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-order-management
+2025-07-18 19:07:08,886 - INFO - Markdown length: 25642
+2025-07-18 19:07:08,886 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-partnerexpress
+2025-07-18 19:07:08,886 - INFO - Markdown length: 3081
+2025-07-18 19:07:08,886 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-patterns
+2025-07-18 19:07:08,886 - INFO - Markdown length: 3081
+2025-07-18 19:07:10,007 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-platform
+2025-07-18 19:07:10,008 - INFO - Markdown length: 3775
+2025-07-18 19:07:10,008 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-platform-add-on-for-business-process-management
+2025-07-18 19:07:10,008 - INFO - Markdown length: 320
+2025-07-18 19:07:10,009 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-platform-add-on-for-event-processing
+2025-07-18 19:07:10,009 - INFO - Markdown length: 4229
+2025-07-18 19:07:11,342 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-product-and-service-catalog
+2025-07-18 19:07:11,342 - INFO - Markdown length: 25697
+2025-07-18 19:07:11,343 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-product-and-service-catalog-powered-by-tibco-ebx
+2025-07-18 19:07:11,343 - INFO - Markdown length: 3081
+2025-07-18 19:07:11,343 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-product-and-service-inventory-2-1-0
+2025-07-18 19:07:11,344 - INFO - Markdown length: 3081
+2025-07-18 19:07:12,531 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-red-enabled-for-ziip
+2025-07-18 19:07:12,532 - INFO - Markdown length: 298
+2025-07-18 19:07:12,532 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rendezvous
+2025-07-18 19:07:12,532 - INFO - Markdown length: 5567
+2025-07-18 19:07:12,533 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rendezvous-network-service
+2025-07-18 19:07:12,533 - INFO - Markdown length: 4541
+2025-07-18 19:07:13,869 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-reward
+2025-07-18 19:07:13,869 - INFO - Markdown length: 3081
+2025-07-18 19:07:13,869 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rtview
+2025-07-18 19:07:13,869 - INFO - Markdown length: 298
+2025-07-18 19:07:13,870 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rtview-for-activematrix-businessworks
+2025-07-18 19:07:13,870 - INFO - Markdown length: 298
+2025-07-18 19:07:14,974 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rtview-for-tibco-activespaces
+2025-07-18 19:07:14,974 - INFO - Markdown length: 320
+2025-07-18 19:07:14,974 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rtview-for-tibco-businessevents
+2025-07-18 19:07:14,975 - INFO - Markdown length: 3081
+2025-07-18 19:07:14,975 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-rtview-for-tibco-enterprise-message-service
+2025-07-18 19:07:14,975 - INFO - Markdown length: 298
+2025-07-18 19:07:16,277 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-runtime-agent
+2025-07-18 19:07:16,278 - INFO - Markdown length: 3081
+2025-07-18 19:07:16,278 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-scribe
+2025-07-18 19:07:16,278 - INFO - Markdown length: 3932
+2025-07-18 19:07:16,279 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-scribe-insight
+2025-07-18 19:07:16,279 - INFO - Markdown length: 298
+2025-07-18 19:07:18,033 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-service-gateway-for-files
+2025-07-18 19:07:18,033 - INFO - Markdown length: 4147
+2025-07-18 19:07:18,034 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric
+2025-07-18 19:07:18,034 - INFO - Markdown length: 6409
+2025-07-18 19:07:19,679 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-asset-manager-for-cloud
+2025-07-18 19:07:19,679 - INFO - Markdown length: 4180
+2025-07-18 19:07:19,680 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-continuity
+2025-07-18 19:07:19,680 - INFO - Markdown length: 4044
+2025-07-18 19:07:19,680 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-activematrix-bpm
+2025-07-18 19:07:19,681 - INFO - Markdown length: 3081
+2025-07-18 19:07:21,040 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-activematrix-businessworks
+2025-07-18 19:07:21,041 - INFO - Markdown length: 3081
+2025-07-18 19:07:21,041 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-activematrix-service-grid
+2025-07-18 19:07:21,041 - INFO - Markdown length: 3081
+2025-07-18 19:07:21,041 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-activespaces-enterprise-edition
+2025-07-18 19:07:21,042 - INFO - Markdown length: 3081
+2025-07-18 19:07:22,195 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-adapter-for-database
+2025-07-18 19:07:22,196 - INFO - Markdown length: 3081
+2025-07-18 19:07:22,196 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-adapter-for-files-unix-win
+2025-07-18 19:07:22,196 - INFO - Markdown length: 3081
+2025-07-18 19:07:22,196 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-adapter-for-ldap
+2025-07-18 19:07:22,197 - INFO - Markdown length: 3081
+2025-07-18 19:07:23,570 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-adapter-for-sap
+2025-07-18 19:07:23,570 - INFO - Markdown length: 3081
+2025-07-18 19:07:23,571 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-apache-tomcat
+2025-07-18 19:07:23,571 - INFO - Markdown length: 4493
+2025-07-18 19:07:23,571 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-bea-weblogic
+2025-07-18 19:07:23,572 - INFO - Markdown length: 4244
+2025-07-18 19:07:25,222 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-docker
+2025-07-18 19:07:25,223 - INFO - Markdown length: 4133
+2025-07-18 19:07:25,223 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-generic-adapter
+2025-07-18 19:07:25,224 - INFO - Markdown length: 4434
+2025-07-18 19:07:26,605 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-ibm-websphere
+2025-07-18 19:07:26,605 - INFO - Markdown length: 4072
+2025-07-18 19:07:26,606 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-microsoft-iis
+2025-07-18 19:07:26,606 - INFO - Markdown length: 298
+2025-07-18 19:07:26,606 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-redhat-jboss
+2025-07-18 19:07:26,607 - INFO - Markdown length: 3081
+2025-07-18 19:07:27,990 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-spotfire-web-player
+2025-07-18 19:07:27,991 - INFO - Markdown length: 4590
+2025-07-18 19:07:27,991 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-tibco-administrator-enterprise-edition
+2025-07-18 19:07:27,991 - INFO - Markdown length: 4351
+2025-07-18 19:07:27,992 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-tibco-api-exchange-gateway
+2025-07-18 19:07:27,992 - INFO - Markdown length: 4394
+2025-07-18 19:07:29,473 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-tibco-businessevents
+2025-07-18 19:07:29,474 - INFO - Markdown length: 3081
+2025-07-18 19:07:29,474 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-tibco-enterprise-administrator
+2025-07-18 19:07:29,474 - INFO - Markdown length: 3081
+2025-07-18 19:07:29,475 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-tibco-enterprise-message-service
+2025-07-18 19:07:29,475 - INFO - Markdown length: 3732
+2025-07-18 19:07:30,874 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-fabric-enabler-for-tibco-hawk
+2025-07-18 19:07:30,874 - INFO - Markdown length: 3081
+2025-07-18 19:07:30,875 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-mobile-core-for-android
+2025-07-18 19:07:30,875 - INFO - Markdown length: 3081
+2025-07-18 19:07:30,875 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-mobile-core-for-ios
+2025-07-18 19:07:30,876 - INFO - Markdown length: 3885
+2025-07-18 19:07:32,071 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-silver-mobile-server
+2025-07-18 19:07:32,072 - INFO - Markdown length: 3081
+2025-07-18 19:07:32,072 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-slingshot
+2025-07-18 19:07:32,072 - INFO - Markdown length: 3081
+2025-07-18 19:07:32,073 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-advanced-data-services
+2025-07-18 19:07:32,073 - INFO - Markdown length: 298
+2025-07-18 19:07:33,581 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-analytics-server
+2025-07-18 19:07:33,582 - INFO - Markdown length: 3734
+2025-07-18 19:07:33,582 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-automation-services
+2025-07-18 19:07:33,582 - INFO - Markdown length: 3081
+2025-07-18 19:07:35,589 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-capability-matrix
+2025-07-18 19:07:35,590 - INFO - Markdown length: 298
+2025-07-18 19:07:35,590 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-clinical
+2025-07-18 19:07:35,590 - INFO - Markdown length: 4246
+2025-07-18 19:07:35,591 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-clinical-graphics
+2025-07-18 19:07:35,591 - INFO - Markdown length: 4461
+2025-07-18 19:07:37,162 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-cisco-information-server
+2025-07-18 19:07:37,163 - INFO - Markdown length: 3081
+2025-07-18 19:07:37,163 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-cloudera-hive
+2025-07-18 19:07:37,163 - INFO - Markdown length: 4753
+2025-07-18 19:07:37,164 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-cloudera-impala
+2025-07-18 19:07:37,164 - INFO - Markdown length: 3081
+2025-07-18 19:07:38,663 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-hortonworks
+2025-07-18 19:07:38,664 - INFO - Markdown length: 4711
+2025-07-18 19:07:38,664 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-hp-vertica
+2025-07-18 19:07:38,665 - INFO - Markdown length: 3081
+2025-07-18 19:07:38,665 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-ibm-db2
+2025-07-18 19:07:38,665 - INFO - Markdown length: 3081
+2025-07-18 19:07:40,276 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-ibm-netezza
+2025-07-18 19:07:40,276 - INFO - Markdown length: 4216
+2025-07-18 19:07:40,277 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-oracle-essbase
+2025-07-18 19:07:40,277 - INFO - Markdown length: 4585
+2025-07-18 19:07:40,277 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-oracle-mysql
+2025-07-18 19:07:40,277 - INFO - Markdown length: 4236
+2025-07-18 19:07:41,650 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-pipeline-pilot
+2025-07-18 19:07:41,651 - INFO - Markdown length: 4175
+2025-07-18 19:07:41,651 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-pivotal-greenplum
+2025-07-18 19:07:41,652 - INFO - Markdown length: 3081
+2025-07-18 19:07:41,652 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-pivotal-hawq
+2025-07-18 19:07:41,652 - INFO - Markdown length: 4563
+2025-07-18 19:07:43,133 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-postgresql
+2025-07-18 19:07:43,134 - INFO - Markdown length: 4202
+2025-07-18 19:07:43,135 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-sap-bw
+2025-07-18 19:07:43,135 - INFO - Markdown length: 4646
+2025-07-18 19:07:43,135 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-sap-hana
+2025-07-18 19:07:43,135 - INFO - Markdown length: 3081
+2025-07-18 19:07:44,571 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connector-for-teradata-aster
+2025-07-18 19:07:44,572 - INFO - Markdown length: 3081
+2025-07-18 19:07:44,572 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-connectors
+2025-07-18 19:07:44,573 - INFO - Markdown length: 3081
+2025-07-18 19:07:44,573 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-consumer
+2025-07-18 19:07:44,574 - INFO - Markdown length: 3081
+2025-07-18 19:07:46,100 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-data-science-package-for-notebooks
+2025-07-18 19:07:46,101 - INFO - Markdown length: 4087
+2025-07-18 19:07:46,101 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-data-source-for-activespaces
+2025-07-18 19:07:46,102 - INFO - Markdown length: 4078
+2025-07-18 19:07:46,102 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-decisionsite
+2025-07-18 19:07:46,102 - INFO - Markdown length: 4657
+2025-07-18 19:07:47,183 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-deployment-kit
+2025-07-18 19:07:47,184 - INFO - Markdown length: 4778
+2025-07-18 19:07:47,184 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-deployment-kit-for-apple-ios
+2025-07-18 19:07:47,184 - INFO - Markdown length: 3081
+2025-07-18 19:07:47,185 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-developer
+2025-07-18 19:07:47,185 - INFO - Markdown length: 5248
+2025-07-18 19:07:48,551 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-extension-for-openspirit
+2025-07-18 19:07:48,551 - INFO - Markdown length: 3081
+2025-07-18 19:07:48,552 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-for-apple-ipad
+2025-07-18 19:07:48,552 - INFO - Markdown length: 3081
+2025-07-18 19:07:48,552 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-general
+2025-07-18 19:07:48,553 - INFO - Markdown length: 4035
+2025-07-18 19:07:50,828 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-lead-discovery
+2025-07-18 19:07:50,829 - INFO - Markdown length: 4441
+2025-07-18 19:07:50,829 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-metrics-modeler
+2025-07-18 19:07:50,830 - INFO - Markdown length: 2670
+2025-07-18 19:07:50,830 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-metrics-services
+2025-07-18 19:07:50,831 - INFO - Markdown length: 2682
+2025-07-18 19:07:52,452 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-miner
+2025-07-18 19:07:52,452 - INFO - Markdown length: 3081
+2025-07-18 19:07:52,453 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-network-analytics
+2025-07-18 19:07:52,454 - INFO - Markdown length: 4011
+2025-07-18 19:07:52,454 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-operations-analytics
+2025-07-18 19:07:52,454 - INFO - Markdown length: 3081
+2025-07-18 19:07:54,101 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-professional
+2025-07-18 19:07:54,102 - INFO - Markdown length: 5104
+2025-07-18 19:07:54,102 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-qualification
+2025-07-18 19:07:54,103 - INFO - Markdown length: 3081
+2025-07-18 19:07:54,103 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-s
+2025-07-18 19:07:54,103 - INFO - Markdown length: 3081
+2025-07-18 19:07:59,244 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-spotfire-web-player
+2025-07-18 19:07:59,244 - INFO - Markdown length: 7212
+2025-07-18 19:07:59,244 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-statistica-document-management-system
+2025-07-18 19:07:59,245 - INFO - Markdown length: 5285
+2025-07-18 19:07:59,245 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-statistica-language-packs
+2025-07-18 19:07:59,245 - INFO - Markdown length: 4227
+2025-07-18 19:08:00,571 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streambase
+2025-07-18 19:08:00,572 - INFO - Markdown length: 3081
+2025-07-18 19:08:00,572 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streambase-adapter-for-apache-flume
+2025-07-18 19:08:00,572 - INFO - Markdown length: 298
+2025-07-18 19:08:00,573 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streambase-add-in-for-microsoft-excel
+2025-07-18 19:08:00,573 - INFO - Markdown length: 3081
+2025-07-18 19:08:01,908 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streambase-cep-connectivity-package
+2025-07-18 19:08:01,908 - INFO - Markdown length: 4108
+2025-07-18 19:08:01,909 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streambase-high-performance-fix-engine
+2025-07-18 19:08:01,909 - INFO - Markdown length: 3081
+2025-07-18 19:08:01,910 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streambase-standard-edition
+2025-07-18 19:08:01,910 - INFO - Markdown length: 3931
+2025-07-18 19:08:03,256 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streaming
+2025-07-18 19:08:03,256 - INFO - Markdown length: 34280
+2025-07-18 19:08:03,257 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-streaming-for-3gpp
+2025-07-18 19:08:03,257 - INFO - Markdown length: 4250
+2025-07-18 19:08:03,258 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-substation-es
+2025-07-18 19:08:03,258 - INFO - Markdown length: 5103
+2025-07-18 19:08:04,679 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-trading-partner-management-rest-api
+2025-07-18 19:08:04,679 - INFO - Markdown length: 4565
+2025-07-18 19:08:04,680 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-transaction-interface-for-cics
+2025-07-18 19:08:04,680 - INFO - Markdown length: 5188
+2025-07-18 19:08:04,680 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-transaction-interface-for-ims
+2025-07-18 19:08:04,681 - INFO - Markdown length: 5125
+2025-07-18 19:08:06,051 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-transaction-interface-for-red
+2025-07-18 19:08:06,052 - INFO - Markdown length: 298
+2025-07-18 19:08:06,052 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-vault
+2025-07-18 19:08:06,052 - INFO - Markdown length: 3081
+2025-07-18 19:08:06,053 - INFO - Successfully crawled: https://docs.tibco.com/products/tibco-web-messaging-for-tibco-enterprise-message-service
+2025-07-18 19:08:06,053 - INFO - Markdown length: 320
+2025-07-18 19:08:06,053 - INFO - 
+Summary:
+2025-07-18 19:08:06,053 - INFO -   - Successfully crawled: 682
+2025-07-18 19:08:06,053 - INFO -   - Failed: 17
+2025-07-18 19:08:06,054 - INFO - 
+Closing crawler...
+2025-07-18 19:08:06,272 - INFO - Script finished.
+2025-07-18 19:11:59,053 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com/products/tibco-spotfire/': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 19:11:59,054 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 19:11:59,054 - INFO - Now processing: https://docs.tibco.com/products/tibco-spotfire/ to be saved to docs_tibco_com.md
+2025-07-18 19:11:59,079 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 19:12:00,223 - INFO - 
+Summary:
+2025-07-18 19:12:00,223 - INFO -   - Successfully crawled: 0
+2025-07-18 19:12:00,223 - INFO -   - Failed: 0
+2025-07-18 19:12:00,224 - INFO - 
+Closing crawler...
+2025-07-18 19:12:00,397 - INFO - Script finished.
+2025-07-18 19:14:43,779 - INFO - 
+Parsed Arguments (from settings.py):
+ Task at hand:  URL: {'https://docs.tibco.com/pub/': 'docs_tibco_com.md'} combinations will be saved in respective .MD files where we Get all sub pages is true
+2025-07-18 19:14:43,780 - INFO - Crawl4AI dependencies CHECK:(True, '[COMPLETE] ● ✅ Crawling test passed!')
+2025-07-18 19:14:43,780 - INFO - Now processing: https://docs.tibco.com/pub/ to be saved to docs_tibco_com.md
+2025-07-18 19:14:43,804 - INFO - 
+=== Parallel Crawling with Browser Reuse + Memory Check ===
+2025-07-18 19:14:44,512 - INFO - 
+Summary:
+2025-07-18 19:14:44,513 - INFO -   - Successfully crawled: 0
+2025-07-18 19:14:44,513 - INFO -   - Failed: 0
+2025-07-18 19:14:44,513 - INFO - 
+Closing crawler...
+2025-07-18 19:14:44,663 - INFO - Script finished.
